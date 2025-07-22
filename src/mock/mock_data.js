@@ -83,6 +83,70 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1753191376311",
+          "name": "AI思维导图",
+          "url": "https://explorer.globe.engineer/",
+          "description": "",
+          "icon": "/sitelogo/explorer.globe.engineer.ico"
+        },
+        {
+          "id": "site-1753191295267",
+          "name": "小木屋",
+          "url": "https://wechalet.cn/appstore/all_all_large-model",
+          "description": "-大模型集锦",
+          "icon": "/sitelogo/wechalet.cn.ico"
+        },
+        {
+          "id": "site-1753191330501",
+          "name": "AI应用集锦",
+          "url": "https://www.jyshare.com/ai/",
+          "description": "",
+          "icon": "/sitelogo/www.jyshare.com.ico"
+        },
+        {
+          "id": "site-1753191476346",
+          "name": "civitai",
+          "url": "https://civitai.com/",
+          "description": "开源模型库-图像视频",
+          "icon": "/sitelogo/civitai.com.ico"
+        },
+        {
+          "id": "site-1753191592579",
+          "name": "AI免费抠图",
+          "url": "https://bgremoval.streamlit.app/",
+          "description": "",
+          "icon": "https://bgremoval.streamlit.app/~/+/media/e78b84577a00c049080a30ee38a7efdc5c17400bea1131e39b4c3cbd.png"
+        }
+      ]
+    },
+    {
+      "id": "category-1753191024840",
+      "icon": "👋",
+      "name": "算法相关",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1753191052918",
+          "name": "LyCORIS",
+          "url": "https://github.com/KohakuBlueleaf/LyCORIS",
+          "description": "比 LoRA 更强的模型",
+          "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1753191086490",
+          "name": "LoRA（Low-Rank Adaptation）",
+          "url": "https://arxiv.org/abs/2106.09685",
+          "description": "LoRA（Low-Rank Adaptation） 的介绍：LoRA 是微软搞的一个低成本的大模型框架，支持调参，可以节约训练成本，降低训练门槛",
+          "icon": "/sitelogo/arxiv.org.ico"
+        },
+        {
+          "id": "site-1753191114545",
+          "name": "controlnet",
+          "url": "https://github.com/lllyasviel/ControlNet",
+          "description": "大模型厉害的一点是发散能力比较强，也可以理解为联想能力，controlnet 就是控制联想的范围，或者用排除联想的范围",
+          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
@@ -90,7 +154,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "github",
@@ -140,7 +204,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "json-formatter",
@@ -176,7 +240,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "linuxdo",
@@ -219,7 +283,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "notion",
@@ -255,7 +319,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "figma",
@@ -291,7 +355,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "mdn",
@@ -327,7 +391,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "cloudflare",
@@ -391,7 +455,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "binance",
@@ -448,35 +512,6 @@ export const mockData = {
           "url": "https://www.futunn.com",
           "description": "港美股交易软件",
           "icon": "/sitelogo/www.futunn.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "category-1753191024840",
-      "icon": "👋",
-      "name": "算法相关",
-      "order": 2,
-      "sites": [
-        {
-          "id": "site-1753191052918",
-          "name": "LyCORIS",
-          "url": "https://github.com/KohakuBlueleaf/LyCORIS",
-          "description": "比 LoRA 更强的模型",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "site-1753191086490",
-          "name": "LoRA（Low-Rank Adaptation）",
-          "url": "https://arxiv.org/abs/2106.09685",
-          "description": "LoRA（Low-Rank Adaptation） 的介绍：LoRA 是微软搞的一个低成本的大模型框架，支持调参，可以节约训练成本，降低训练门槛",
-          "icon": "/sitelogo/arxiv.org.ico"
-        },
-        {
-          "id": "site-1753191114545",
-          "name": "controlnet",
-          "url": "https://github.com/lllyasviel/ControlNet",
-          "description": "大模型厉害的一点是发散能力比较强，也可以理解为联想能力，controlnet 就是控制联想的范围，或者用排除联想的范围",
-          "icon": "/sitelogo/github.com.ico"
         }
       ]
     }
