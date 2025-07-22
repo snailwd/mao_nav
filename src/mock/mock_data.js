@@ -140,42 +140,6 @@ export const mockData = {
           "url": "https://www.oracle.com/java/technologies/downloads/",
           "description": "Oracle官方Java下载",
           "icon": "/sitelogo/www.oracle.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "tools",
-      "name": "在线工具",
-      "icon": "⚙️",
-      "order": 3,
-      "sites": [
-        {
-          "id": "json-formatter",
-          "name": "JSON Formatter",
-          "url": "https://jsonformatter.org",
-          "description": "JSON格式化工具",
-          "icon": "/sitelogo/jsonformatter.org.ico"
-        },
-        {
-          "id": "regex101",
-          "name": "Regex101",
-          "url": "https://regex101.com",
-          "description": "正则表达式测试",
-          "icon": "/sitelogo/regex101.com.ico"
-        },
-        {
-          "id": "caniuse",
-          "name": "Can I Use",
-          "url": "https://caniuse.com",
-          "description": "浏览器兼容性查询",
-          "icon": "/sitelogo/caniuse.com.ico"
-        },
-        {
-          "id": "tinypng",
-          "name": "TinyPNG",
-          "url": "https://tinypng.com",
-          "description": "图片压缩工具",
-          "icon": "/sitelogo/tinypng.com.ico"
         },
         {
           "id": "site-1752649007053",
@@ -190,6 +154,49 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "regex101",
+          "name": "Regex101",
+          "url": "https://regex101.com",
+          "description": "正则表达式测试",
+          "icon": "/sitelogo/regex101.com.ico"
+        },
+        {
+          "id": "json-formatter",
+          "name": "JSON Formatter",
+          "url": "https://jsonformatter.org",
+          "description": "JSON格式化工具",
+          "icon": "/sitelogo/jsonformatter.org.ico"
+        },
+        {
+          "id": "caniuse",
+          "name": "Can I Use",
+          "url": "https://caniuse.com",
+          "description": "浏览器兼容性查询",
+          "icon": "/sitelogo/caniuse.com.ico"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "在线工具",
+      "icon": "⚙️",
+      "order": 3,
+      "sites": [
+        {
+          "id": "site-1753193003339",
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com/",
+          "description": "在线画板",
+          "icon": "/sitelogo/excalidraw.com.ico"
+        },
+        {
+          "id": "tinypng",
+          "name": "TinyPNG",
+          "url": "https://tinypng.com",
+          "description": "图片压缩工具",
+          "icon": "/sitelogo/tinypng.com.ico"
         }
       ]
     },
