@@ -201,10 +201,46 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1753191024840",
+      "icon": "👋",
+      "name": "算法&模型集",
+      "order": 4,
+      "sites": [
+        {
+          "id": "site-1753191052918",
+          "name": "LyCORIS",
+          "url": "https://github.com/KohakuBlueleaf/LyCORIS",
+          "description": "比 LoRA 更强的模型",
+          "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1753191086490",
+          "name": "LoRA（Low-Rank Adaptation）",
+          "url": "https://arxiv.org/abs/2106.09685",
+          "description": "LoRA（Low-Rank Adaptation） 的介绍：LoRA 是微软搞的一个低成本的大模型框架，支持调参，可以节约训练成本，降低训练门槛",
+          "icon": "/sitelogo/arxiv.org.ico"
+        },
+        {
+          "id": "site-1753191114545",
+          "name": "controlnet",
+          "url": "https://github.com/lllyasviel/ControlNet",
+          "description": "大模型厉害的一点是发散能力比较强，也可以理解为联想能力，controlnet 就是控制联想的范围，或者用排除联想的范围",
+          "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1753193298639",
+          "name": "中文开放知识图谱",
+          "url": "http://openkg.cn/datasets-type/",
+          "description": "中文开放知识数据集",
+          "icon": "/sitelogo/openkg.cn.ico"
+        }
+      ]
+    },
+    {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "linuxdo",
@@ -247,7 +283,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "notion",
@@ -283,7 +319,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "figma",
@@ -319,7 +355,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "mdn",
@@ -355,7 +391,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "cloudflare",
@@ -419,7 +455,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "binance",
@@ -480,39 +516,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1753191024840",
-      "icon": "👋",
-      "name": "算法相关",
-      "order": 2,
-      "sites": [
-        {
-          "id": "site-1753191052918",
-          "name": "LyCORIS",
-          "url": "https://github.com/KohakuBlueleaf/LyCORIS",
-          "description": "比 LoRA 更强的模型",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "site-1753191086490",
-          "name": "LoRA（Low-Rank Adaptation）",
-          "url": "https://arxiv.org/abs/2106.09685",
-          "description": "LoRA（Low-Rank Adaptation） 的介绍：LoRA 是微软搞的一个低成本的大模型框架，支持调参，可以节约训练成本，降低训练门槛",
-          "icon": "/sitelogo/arxiv.org.ico"
-        },
-        {
-          "id": "site-1753191114545",
-          "name": "controlnet",
-          "url": "https://github.com/lllyasviel/ControlNet",
-          "description": "大模型厉害的一点是发散能力比较强，也可以理解为联想能力，controlnet 就是控制联想的范围，或者用排除联想的范围",
-          "icon": "/sitelogo/github.com.ico"
-        }
-      ]
-    },
-    {
       "id": "category-1753192622842",
       "icon": "🧨",
       "name": "有趣网站",
-      "order": 0,
+      "order": 11,
       "sites": [
         {
           "id": "site-1753192685201",
@@ -541,7 +548,7 @@ export const mockData = {
       "id": "category-1753193138124",
       "icon": "✨",
       "name": "天文",
-      "order": 0,
+      "order": 12,
       "sites": [
         {
           "id": "site-1753193168580",
