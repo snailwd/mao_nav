@@ -556,6 +556,13 @@ export const mockData = {
           "url": "https://www.wikisky.org/?locale=ZH",
           "description": "交互式在线星图",
           "icon": "/sitelogo/www.wikisky.org.ico"
+        },
+        {
+          "id": "site-1753194105689",
+          "name": "宇宙可视化",
+          "url": "https://eleanorlutz.com/mapping-18000-asteroids",
+          "description": "伟大的宇宙可视化",
+          "icon": "/sitelogo/eleanorlutz.com.ico"
         }
       ]
     },
@@ -613,6 +620,98 @@ export const mockData = {
           "url": "https://urbantheorylab.net/",
           "description": "The University of Chicago’s Urban Theory Lab (UTL) ",
           "icon": "/sitelogo/urbantheorylab.net.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1753193953323",
+      "icon": "📊",
+      "name": "信息可视化",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1753193986327",
+          "name": "davidmccandless",
+          "url": "http://www.davidmccandless.com/",
+          "description": "一名居住在伦敦的作家、设计师和创意总监",
+          "icon": "/sitelogo/www.davidmccandless.com.ico"
+        },
+        {
+          "id": "site-1753194025084",
+          "name": "information is beautiful",
+          "url": "http://www.informationisbeautiful.net/",
+          "description": "将数据、信息和知识转化为交互式图形、故事、现场表演和书籍",
+          "icon": "/sitelogo/www.informationisbeautiful.net.ico"
+        },
+        {
+          "id": "site-1753194058078",
+          "name": "The pudding",
+          "url": "https://pudding.cool/2018/12/3d-cities-story/",
+          "description": "文化中争论的思想，通过视觉进行解释",
+          "icon": "/sitelogo/pudding.cool.ico"
+        },
+        {
+          "id": "site-1753194167903",
+          "name": "dashboard库",
+          "url": "https://datavizproject.com/",
+          "description": "数据可视化代码模板及示例",
+          "icon": "/sitelogo/datavizproject.com.ico"
+        },
+        {
+          "id": "site-1753194206320",
+          "name": "图之典",
+          "url": "http://www.tuzhidian.com/",
+          "description": "数据可视化",
+          "icon": "/sitelogo/www.tuzhidian.com.ico"
+        },
+        {
+          "id": "site-1753194259905",
+          "name": "infogram templete",
+          "url": "https://infogram.com/template/flowchart-dashboard",
+          "description": "Dashboard Template",
+          "icon": "/sitelogo/infogram.com.ico"
+        },
+        {
+          "id": "site-1753194301350",
+          "name": "D3",
+          "url": "https://observablehq.com/@d3",
+          "description": "D3库：https://observablehq.com/@d3/gallery?utm_source=d3js-org&utm_medium=nav&utm_campaign=try-observable",
+          "icon": "/sitelogo/observablehq.com.ico"
+        },
+        {
+          "id": "site-1753194420566",
+          "name": "data sketches",
+          "url": "https://www.datasketch.es/",
+          "description": "data sketches",
+          "icon": "/sitelogo/www.datasketch.es.ico"
+        },
+        {
+          "id": "site-1753194504737",
+          "name": "Tortoise",
+          "url": "https://www.tortoisemedia.com/data/global-ai#data",
+          "description": "全球人工智能指数，纸质感的图表可视化",
+          "icon": "/sitelogo/www.tortoisemedia.com.ico"
+        },
+        {
+          "id": "site-1753194533020",
+          "name": "UN旅游",
+          "url": "https://www.unwto.org/tourism-data/international-tourism-and-covid-19",
+          "description": "UN旅游Covid-19相关数据统计",
+          "icon": "/sitelogo/www.unwto.org.ico"
+        },
+        {
+          "id": "site-1753194581270",
+          "name": "Giorgialupi's Web",
+          "url": "https://giorgialupi.com/",
+          "description": "一名信息设计师，也是 Pentagram 的合伙人，倡导数据人文主义。",
+          "icon": "/sitelogo/giorgialupi.com.ico"
+        },
+        {
+          "id": "site-1753194611780",
+          "name": "sxywu's web",
+          "url": "https://sxywu.github.io/",
+          "description": "一位屡获殊荣的创意人士，专注于数据驱动的艺术和可视化。",
+          "icon": "/sitelogo/sxywu.github.io.ico"
         }
       ]
     }
