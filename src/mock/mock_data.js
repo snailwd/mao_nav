@@ -599,6 +599,20 @@ export const mockData = {
           "url": "https://www.heatwalkingcycling.org/?&heat_locale=en-US&heat_lang=en#homepage",
           "description": "骑自行车和步行的卫生经济评估工具（HEAT）",
           "icon": "/sitelogo/www.heatwalkingcycling.org.ico"
+        },
+        {
+          "id": "site-1753193856661",
+          "name": "城市设计游戏",
+          "url": "https://www.playthecity.eu/",
+          "description": "2015港深双年展",
+          "icon": "/sitelogo/www.playthecity.eu.ico"
+        },
+        {
+          "id": "site-1753193889871",
+          "name": "Urban Theory Lab",
+          "url": "https://urbantheorylab.net/",
+          "description": "The University of Chicago’s Urban Theory Lab (UTL) ",
+          "icon": "/sitelogo/urbantheorylab.net.ico"
         }
       ]
     }
