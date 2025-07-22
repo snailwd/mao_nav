@@ -140,6 +140,13 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1753190162394",
+          "name": "Free Domin",
+          "url": "https://dash.domain.digitalplat.org/",
+          "description": "qzz.io",
+          "icon": "https://dash.domain.digitalplat.org/static/img/logo.jpg"
         }
       ]
     },
@@ -481,6 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "发条猪导航",
-  "_fileSha": "fa76b0cb6370a570d69ded0400e18cf51d5b1886"
+  "title": "发条猪导航"
 }
