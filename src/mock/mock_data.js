@@ -26,6 +26,20 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1753191879455",
+          "name": "B站",
+          "url": "https://www.bilibili.com/watchlater/list?spm_id_from=333.1387.0.0#/list",
+          "description": "",
+          "icon": "/sitelogo/www.bilibili.com.ico"
+        },
+        {
+          "id": "site-1753192122455",
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "description": "书影音",
+          "icon": "/sitelogo/www.douban.com.ico"
         }
       ]
     },
