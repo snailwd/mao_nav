@@ -686,13 +686,6 @@ export const mockData = {
           "icon": "/sitelogo/www.datasketch.es.ico"
         },
         {
-          "id": "site-1753194504737",
-          "name": "Tortoise",
-          "url": "https://www.tortoisemedia.com/data/global-ai#data",
-          "description": "全球人工智能指数，纸质感的图表可视化",
-          "icon": "/sitelogo/www.tortoisemedia.com.ico"
-        },
-        {
           "id": "site-1753194533020",
           "name": "UN旅游",
           "url": "https://www.unwto.org/tourism-data/international-tourism-and-covid-19",
@@ -707,13 +700,6 @@ export const mockData = {
           "icon": "/sitelogo/giorgialupi.com.ico"
         },
         {
-          "id": "site-1753194611780",
-          "name": "sxywu's web",
-          "url": "https://sxywu.github.io/",
-          "description": "一位屡获殊荣的创意人士，专注于数据驱动的艺术和可视化。",
-          "icon": "/sitelogo/sxywu.github.io.ico"
-        },
-        {
           "id": "site-1753194706282",
           "name": "bruno大神",
           "url": "https://bruno-simon.com/",
@@ -726,6 +712,20 @@ export const mockData = {
           "url": "https://www.alyssax.com/",
           "description": "",
           "icon": "/sitelogo/www.alyssax.com.ico"
+        },
+        {
+          "id": "site-1753194611780",
+          "name": "sxywu's web",
+          "url": "https://sxywu.github.io/",
+          "description": "一位屡获殊荣的创意人士，专注于数据驱动的艺术和可视化。",
+          "icon": "/sitelogo/sxywu.github.io.ico"
+        },
+        {
+          "id": "site-1753194504737",
+          "name": "Tortoise",
+          "url": "https://www.tortoisemedia.com/data/global-ai#data",
+          "description": "全球人工智能指数，纸质感的图表可视化",
+          "icon": "/sitelogo/www.tortoisemedia.com.ico"
         }
       ]
     }
