@@ -712,6 +712,20 @@ export const mockData = {
           "url": "https://sxywu.github.io/",
           "description": "一位屡获殊荣的创意人士，专注于数据驱动的艺术和可视化。",
           "icon": "/sitelogo/sxywu.github.io.ico"
+        },
+        {
+          "id": "site-1753194706282",
+          "name": "bruno大神",
+          "url": "https://bruno-simon.com/",
+          "description": "3d个人网站，bruno大神",
+          "icon": "/sitelogo/bruno-simon.com.ico"
+        },
+        {
+          "id": "site-1753194724471",
+          "name": "alyssax‘s web",
+          "url": "https://www.alyssax.com/",
+          "description": "",
+          "icon": "/sitelogo/www.alyssax.com.ico"
         }
       ]
     }
