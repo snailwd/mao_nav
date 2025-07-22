@@ -7,18 +7,25 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
-        },
-        {
           "id": "linux-do",
           "name": "Linux.do",
           "url": "https://linux.do",
           "description": "Linux技术社区，Peace and Love",
           "icon": "/sitelogo/linux.do.ico"
+        },
+        {
+          "id": "site-1753192227856",
+          "name": "Deepseek",
+          "url": "https://chat.deepseek.com/",
+          "description": "深度求索",
+          "icon": "/sitelogo/chat.deepseek.com.ico"
+        },
+        {
+          "id": "site-1752857783656",
+          "name": "OpenAI",
+          "url": "https://chatgpt.com",
+          "description": "OpenAI,好用👌",
+          "icon": "/sitelogo/chatgpt.com.ico"
         },
         {
           "id": "github",
@@ -28,18 +35,18 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "site-1753191879455",
-          "name": "B站",
-          "url": "https://www.bilibili.com/watchlater/list?spm_id_from=333.1387.0.0#/list",
-          "description": "",
-          "icon": "/sitelogo/www.bilibili.com.ico"
-        },
-        {
           "id": "site-1753192122455",
           "name": "豆瓣",
           "url": "https://www.douban.com/",
           "description": "书影音",
           "icon": "/sitelogo/www.douban.com.ico"
+        },
+        {
+          "id": "site-1753191879455",
+          "name": "B站",
+          "url": "https://www.bilibili.com/watchlater/list?spm_id_from=333.1387.0.0#/list",
+          "description": "",
+          "icon": "/sitelogo/www.bilibili.com.ico"
         }
       ]
     },
