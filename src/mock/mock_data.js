@@ -500,6 +500,35 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         }
       ]
+    },
+    {
+      "id": "category-1753192622842",
+      "icon": "🧨",
+      "name": "有趣网站",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1753192685201",
+          "name": "mindvault",
+          "url": "https://mindvault.co/",
+          "description": "一本书一张图",
+          "icon": "/sitelogo/mindvault.co.ico"
+        },
+        {
+          "id": "site-1753192730830",
+          "name": "Stripe Press",
+          "url": "https://press.stripe.com/",
+          "description": "ideas for progress",
+          "icon": "/sitelogo/press.stripe.com.ico"
+        },
+        {
+          "id": "site-1753192802809",
+          "name": "英文书打字练习",
+          "url": "https://entertrained.app/books",
+          "description": "各种英文书的打字练习",
+          "icon": "/sitelogo/entertrained.app.ico"
+        }
+      ]
     }
   ],
   "title": "发条猪导航"
