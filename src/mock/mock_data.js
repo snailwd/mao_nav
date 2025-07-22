@@ -558,6 +558,49 @@ export const mockData = {
           "icon": "/sitelogo/www.wikisky.org.ico"
         }
       ]
+    },
+    {
+      "id": "category-1753193445180",
+      "icon": "📚",
+      "name": "学术研究",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1753193482721",
+          "name": "全球城市设计指南",
+          "url": "https://globaldesigningcities.org/",
+          "description": "全球城市设计指南",
+          "icon": "/sitelogo/globaldesigningcities.org.ico"
+        },
+        {
+          "id": "site-1753193598417",
+          "name": "评估工具（HEAT）",
+          "url": "https://www.heatwalkingcycling.org/?&heat_locale=en-US&heat_lang=en#homepage",
+          "description": "骑自行车和步行的卫生经济评估工具（HEAT）",
+          "icon": ""
+        },
+        {
+          "id": "site-1753193547600",
+          "name": "欧盟交通亮点",
+          "url": "https://transport.ec.europa.eu/index_en",
+          "description": "欧盟交通亮点新闻",
+          "icon": "/sitelogo/transport.ec.europa.eu.ico"
+        },
+        {
+          "id": "site-1753193678543",
+          "name": "DeCodingSpaces toolkit",
+          "url": "https://toolbox.decodingspaces.net/",
+          "description": "基于GH的城市生成DeCodingSpaces toolkit，街道网络、地块和建筑物的计算分析和生成",
+          "icon": "/sitelogo/toolbox.decodingspaces.net.ico"
+        },
+        {
+          "id": "site-1753193755378",
+          "name": "MIT-cityscope",
+          "url": "https://cityscope.media.mit.edu/",
+          "description": "https://github.com/CityScope",
+          "icon": "/sitelogo/cityscope.media.mit.edu.ico"
+        }
+      ]
     }
   ],
   "title": "发条猪导航"
