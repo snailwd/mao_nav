@@ -573,13 +573,6 @@ export const mockData = {
           "icon": "/sitelogo/globaldesigningcities.org.ico"
         },
         {
-          "id": "site-1753193598417",
-          "name": "评估工具（HEAT）",
-          "url": "https://www.heatwalkingcycling.org/?&heat_locale=en-US&heat_lang=en#homepage",
-          "description": "骑自行车和步行的卫生经济评估工具（HEAT）",
-          "icon": ""
-        },
-        {
           "id": "site-1753193547600",
           "name": "欧盟交通亮点",
           "url": "https://transport.ec.europa.eu/index_en",
@@ -599,6 +592,13 @@ export const mockData = {
           "url": "https://cityscope.media.mit.edu/",
           "description": "https://github.com/CityScope",
           "icon": "/sitelogo/cityscope.media.mit.edu.ico"
+        },
+        {
+          "id": "site-1753193598417",
+          "name": "评估工具（HEAT）",
+          "url": "https://www.heatwalkingcycling.org/?&heat_locale=en-US&heat_lang=en#homepage",
+          "description": "骑自行车和步行的卫生经济评估工具（HEAT）",
+          "icon": "/sitelogo/www.heatwalkingcycling.org.ico"
         }
       ]
     }
