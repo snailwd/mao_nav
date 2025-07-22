@@ -536,6 +536,21 @@ export const mockData = {
           "icon": "/sitelogo/entertrained.app.ico"
         }
       ]
+    },
+    {
+      "id": "category-1753193138124",
+      "icon": "✨",
+      "name": "天文",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1753193168580",
+          "name": "Wiki-sky",
+          "url": "https://www.wikisky.org/?locale=ZH",
+          "description": "交互式在线星图",
+          "icon": "/sitelogo/www.wikisky.org.ico"
+        }
+      ]
     }
   ],
   "title": "发条猪导航"
