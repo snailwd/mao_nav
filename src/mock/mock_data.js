@@ -674,6 +674,62 @@ export const mockData = {
           "url": "https://pimpmydrawing.com/",
           "description": "白图素材，线稿，dwg&ai",
           "icon": "https://pimpmydrawing.com/icons/ai_tools_icon.svg"
+        },
+        {
+          "id": "site-1753284981896",
+          "name": "icon图库",
+          "url": "https://www.flaticon.com/",
+          "description": "icon",
+          "icon": "/sitelogo/www.flaticon.com.ico"
+        },
+        {
+          "id": "site-1753285029439",
+          "name": "iconfont",
+          "url": "https://www.iconfont.cn/",
+          "description": "阿里巴巴icon库",
+          "icon": "/sitelogo/www.iconfont.cn.ico"
+        },
+        {
+          "id": "site-1753285156828",
+          "name": "free-designs",
+          "url": "https://free-designs.delesign.com/free-designs/graphics/",
+          "description": "免费矢量图资源",
+          "icon": "https://free-designs.delesign.com/public/images/delesign-logo-freeresources.svg"
+        },
+        {
+          "id": "site-1753285199006",
+          "name": "gobotree",
+          "url": "https://www.gobotree.com/#tags=41834&page=1",
+          "description": "材质素材",
+          "icon": "/sitelogo/www.gobotree.com.ico"
+        },
+        {
+          "id": "site-1753285230718",
+          "name": "deviantart材质",
+          "url": "https://www.deviantart.com/search?q=texture",
+          "description": "材质素材",
+          "icon": "/sitelogo/www.deviantart.com.ico"
+        },
+        {
+          "id": "site-1753285256190",
+          "name": "Textures",
+          "url": "https://www.textures.com/",
+          "description": "材质素材",
+          "icon": "/sitelogo/www.textures.com.ico"
+        },
+        {
+          "id": "site-1753285275968",
+          "name": "fonts2u",
+          "url": "https://zh.fonts2u.com/capsuularegular.font",
+          "description": "字体素材",
+          "icon": "/sitelogo/zh.fonts2u.com.ico"
+        },
+        {
+          "id": "site-1753285320891",
+          "name": "填充patch图案",
+          "url": "https://incompetech.com/graphpaper/",
+          "description": "免费patch，PDF图案生成",
+          "icon": "/sitelogo/incompetech.com.ico"
         }
       ]
     },
