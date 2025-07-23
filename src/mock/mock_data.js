@@ -764,6 +764,21 @@ export const mockData = {
           "icon": "/sitelogo/www.kdocs.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1753268718985",
+      "icon": "🔍",
+      "name": "他山石",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1753268743475",
+          "name": "效率集",
+          "url": "https://www.xiaolvji.com/u/ljyandlwl",
+          "description": "他人整理的导航集",
+          "icon": "/sitelogo/www.xiaolvji.com.ico"
+        }
+      ]
     }
   ],
   "title": "发条猪导航"
