@@ -786,6 +786,21 @@ export const mockData = {
           "icon": "/sitelogo/www.xiaolvji.com.ico"
         }
       ]
+    },
+    {
+      "id": "category-1753270132486",
+      "icon": "📕",
+      "name": "教程们",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1753270561716",
+          "name": "abzdo",
+          "url": "https://abduzeedo.com/tutorials",
+          "description": "UI设计教程",
+          "icon": "/sitelogo/abduzeedo.com.ico"
+        }
+      ]
     }
   ],
   "title": "发条猪导航"
