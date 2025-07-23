@@ -226,6 +226,12 @@ export const mockData = {
           "url": "https://excalidraw.com/",
           "description": "在线画板",
           "icon": "/sitelogo/excalidraw.com.ico"
+        },
+        {
+          "id": "site-1753284631452",
+          "name": "在线街道断面图",
+          "url": "https://streetmix.net/-/134851",
+          "description": "在线街道断面图"
         }
       ]
     },
@@ -620,6 +626,54 @@ export const mockData = {
           "url": "https://www.deviantart.com/",
           "description": "deviantart艺术图片",
           "icon": "/sitelogo/www.deviantart.com.ico"
+        },
+        {
+          "id": "site-1753283665032",
+          "name": "图片颜色提取",
+          "url": "https://www.degraeve.com/color-palette/",
+          "description": "图片颜色提取",
+          "icon": "https://www.degraeve.com/images/lotus.jpg"
+        },
+        {
+          "id": "site-1753283751246",
+          "name": "undraw",
+          "url": "https://undraw.co/",
+          "description": "各种矢量插图",
+          "icon": "/sitelogo/undraw.co.ico"
+        },
+        {
+          "id": "site-1753283981810",
+          "name": "Subtle Patterns",
+          "url": "https://www.toptal.com/designers/subtlepatterns/",
+          "description": "图案纹理pattern",
+          "icon": "https://www.toptal.com/designers/subtlepatterns/uploads/more-leaves-on-green.png"
+        },
+        {
+          "id": "site-1753284267369",
+          "name": "xoio",
+          "url": "https://xoio-air.de/",
+          "description": "blender素材"
+        },
+        {
+          "id": "site-1753284439506",
+          "name": "skalgubbar",
+          "url": "https://skalgubbar.se/",
+          "description": "各种人，已扣图，生活化",
+          "icon": "http://skalgubbar.se/wp-content/uploads/2017/09/skalgubbar_logo-1.png"
+        },
+        {
+          "id": "site-1753284723288",
+          "name": "建筑概念图",
+          "url": "https://conceptdiagram.tumblr.com/",
+          "description": "建筑概念图",
+          "icon": "http://www.w3.org/2000/svg"
+        },
+        {
+          "id": "site-1753284232399",
+          "name": "Pimp my drawing",
+          "url": "https://pimpmydrawing.com/",
+          "description": "白图素材，线稿，dwg&ai",
+          "icon": "https://pimpmydrawing.com/icons/ai_tools_icon.svg"
         }
       ]
     },
