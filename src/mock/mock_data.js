@@ -108,10 +108,46 @@ export const mockData = {
       ]
     },
     {
+      "id": "office",
+      "name": "办公协作",
+      "icon": "💼",
+      "order": 2,
+      "sites": [
+        {
+          "id": "notion",
+          "name": "Notion",
+          "url": "https://www.notion.so",
+          "description": "全能工作空间",
+          "icon": "/sitelogo/www.notion.so.ico"
+        },
+        {
+          "id": "slack",
+          "name": "Slack",
+          "url": "https://slack.com",
+          "description": "团队协作工具",
+          "icon": "/sitelogo/slack.com.ico"
+        },
+        {
+          "id": "trello",
+          "name": "Trello",
+          "url": "https://trello.com",
+          "description": "项目管理工具",
+          "icon": "/sitelogo/trello.com.ico"
+        },
+        {
+          "id": "feishu",
+          "name": "飞书",
+          "url": "https://www.feishu.cn",
+          "description": "企业协作平台",
+          "icon": "/sitelogo/www.feishu.cn.ico"
+        }
+      ]
+    },
+    {
       "id": "ai-tools",
       "name": "AI产品",
       "icon": "🤖",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "chatgpt",
@@ -154,7 +190,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "github",
@@ -239,7 +275,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "tinypng",
@@ -261,7 +297,7 @@ export const mockData = {
       "id": "category-1753191024840",
       "icon": "👋",
       "name": "算法&模型集",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "site-1753191052918",
@@ -297,7 +333,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "linuxdo",
@@ -337,82 +373,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "office",
-      "name": "办公协作",
-      "icon": "💼",
-      "order": 7,
-      "sites": [
-        {
-          "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
-          "description": "全能工作空间",
-          "icon": "/sitelogo/www.notion.so.ico"
-        },
-        {
-          "id": "slack",
-          "name": "Slack",
-          "url": "https://slack.com",
-          "description": "团队协作工具",
-          "icon": "/sitelogo/slack.com.ico"
-        },
-        {
-          "id": "trello",
-          "name": "Trello",
-          "url": "https://trello.com",
-          "description": "项目管理工具",
-          "icon": "/sitelogo/trello.com.ico"
-        },
-        {
-          "id": "feishu",
-          "name": "飞书",
-          "url": "https://www.feishu.cn",
-          "description": "企业协作平台",
-          "icon": "/sitelogo/www.feishu.cn.ico"
-        }
-      ]
-    },
-    {
-      "id": "design",
-      "name": "设计工具",
-      "icon": "🎨",
-      "order": 8,
-      "sites": [
-        {
-          "id": "figma",
-          "name": "Figma",
-          "url": "https://figma.com",
-          "description": "UI设计工具",
-          "icon": "/sitelogo/figma.com.ico"
-        },
-        {
-          "id": "sketch",
-          "name": "Sketch",
-          "url": "https://www.sketch.com",
-          "description": "界面设计工具",
-          "icon": "/sitelogo/www.sketch.com.ico"
-        },
-        {
-          "id": "canva",
-          "name": "Canva",
-          "url": "https://www.canva.com",
-          "description": "在线设计平台",
-          "icon": "/sitelogo/www.canva.com.ico"
-        },
-        {
-          "id": "adobe-xd",
-          "name": "Adobe XD",
-          "url": "https://www.adobe.com/products/xd.html",
-          "description": "用户体验设计工具",
-          "icon": "/sitelogo/www.adobe.com.ico"
-        }
-      ]
-    },
-    {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 9,
+      "order": 8,
       "sites": [
         {
           "id": "mdn",
@@ -441,6 +405,42 @@ export const mockData = {
           "url": "https://www.coursera.org",
           "description": "在线课程平台",
           "icon": "/sitelogo/www.coursera.org.ico"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "name": "设计工具",
+      "icon": "🎨",
+      "order": 9,
+      "sites": [
+        {
+          "id": "figma",
+          "name": "Figma",
+          "url": "https://figma.com",
+          "description": "UI设计工具",
+          "icon": "/sitelogo/figma.com.ico"
+        },
+        {
+          "id": "sketch",
+          "name": "Sketch",
+          "url": "https://www.sketch.com",
+          "description": "界面设计工具",
+          "icon": "/sitelogo/www.sketch.com.ico"
+        },
+        {
+          "id": "canva",
+          "name": "Canva",
+          "url": "https://www.canva.com",
+          "description": "在线设计平台",
+          "icon": "/sitelogo/www.canva.com.ico"
+        },
+        {
+          "id": "adobe-xd",
+          "name": "Adobe XD",
+          "url": "https://www.adobe.com/products/xd.html",
+          "description": "用户体验设计工具",
+          "icon": "/sitelogo/www.adobe.com.ico"
         }
       ]
     },
