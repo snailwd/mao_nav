@@ -231,7 +231,43 @@ export const mockData = {
           "id": "site-1753284631452",
           "name": "在线街道断面图",
           "url": "https://streetmix.net/-/134851",
-          "description": "在线街道断面图"
+          "description": "在线街道断面图",
+          "icon": "/sitelogo/streetmix.net.ico"
+        },
+        {
+          "id": "site-1753285534006",
+          "name": "PDF转DWG",
+          "url": "https://cadsofttools.com/pdf-to-dwg-online/",
+          "description": "在线格式转换",
+          "icon": "/sitelogo/cadsofttools.com.ico"
+        },
+        {
+          "id": "site-1753285562496",
+          "name": "在线格式转换",
+          "url": "https://cloudconvert.com/#archive",
+          "description": "各种格式转换！超强大！",
+          "icon": "/sitelogo/cloudconvert.com.ico"
+        },
+        {
+          "id": "site-1753285591801",
+          "name": "office-converter",
+          "url": "https://cn.office-converter.com/",
+          "description": "在线转换，在线二维码生成",
+          "icon": "/sitelogo/cn.office-converter.com.ico"
+        },
+        {
+          "id": "site-1753285626069",
+          "name": "zamzar转换",
+          "url": "https://www.zamzar.com/",
+          "description": "Convert documents, images, videos & sound",
+          "icon": "/sitelogo/www.zamzar.com.ico"
+        },
+        {
+          "id": "site-1753285648275",
+          "name": "i love img",
+          "url": "https://www.iloveimg.com/zh-cn/compress-image/compress-gif",
+          "description": "在线压缩GIF",
+          "icon": "/sitelogo/www.iloveimg.com.ico"
         }
       ]
     },
