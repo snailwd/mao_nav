@@ -660,6 +660,13 @@ export const mockData = {
           "url": "https://www.upnews.cn/archives/24698",
           "description": "规划头条导航",
           "icon": "/sitelogo/www.upnews.cn.ico"
+        },
+        {
+          "id": "site-1753288073188",
+          "name": "可视化工具推荐",
+          "url": "http://www.lupaworld.com/article-222907-2.html",
+          "description": "可视化工具推荐",
+          "icon": "/sitelogo/www.lupaworld.com.ico"
         }
       ]
     },
