@@ -114,6 +114,13 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
+          "id": "site-1753267837966",
+          "name": "语雀",
+          "url": "https://www.yuque.com/dashboard/books",
+          "description": "语雀知识库",
+          "icon": "https://mdn.alipayobjects.com/huamei_0prmtq/afts/img/A*9uyGR6gGcI4AAAAAAAAAAAAADvuFAQ/original"
+        },
+        {
           "id": "feishu",
           "name": "飞书",
           "url": "https://www.feishu.cn",
