@@ -128,6 +128,13 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         },
         {
+          "id": "site-1753268110732",
+          "name": "印象笔记",
+          "url": "https://app.yinxiang.com/Home.action#n=3e3ff887-4fb9-4080-ba6b-1dc2e2ebb70f&s=s59&ses=4&sh=2&sds=5&",
+          "description": "印象笔记",
+          "icon": "https://app.yinxiang.com/redesign/business/BusinessHomeAction/letters/d_60px_1.png"
+        },
+        {
           "id": "notion",
           "name": "Notion",
           "url": "https://www.notion.so",
