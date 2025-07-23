@@ -51,10 +51,67 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1753193445180",
+      "icon": "📚",
+      "name": "学术研究",
+      "order": 1,
+      "sites": [
+        {
+          "id": "site-1753193482721",
+          "name": "全球城市设计指南",
+          "url": "https://globaldesigningcities.org/",
+          "description": "全球城市设计指南",
+          "icon": "/sitelogo/globaldesigningcities.org.ico"
+        },
+        {
+          "id": "site-1753193547600",
+          "name": "欧盟交通亮点",
+          "url": "https://transport.ec.europa.eu/index_en",
+          "description": "欧盟交通亮点新闻",
+          "icon": "/sitelogo/transport.ec.europa.eu.ico"
+        },
+        {
+          "id": "site-1753193678543",
+          "name": "DeCodingSpaces toolkit",
+          "url": "https://toolbox.decodingspaces.net/",
+          "description": "基于GH的城市生成DeCodingSpaces toolkit，街道网络、地块和建筑物的计算分析和生成",
+          "icon": "/sitelogo/toolbox.decodingspaces.net.ico"
+        },
+        {
+          "id": "site-1753193755378",
+          "name": "MIT-cityscope",
+          "url": "https://cityscope.media.mit.edu/",
+          "description": "https://github.com/CityScope",
+          "icon": "/sitelogo/cityscope.media.mit.edu.ico"
+        },
+        {
+          "id": "site-1753193598417",
+          "name": "评估工具（HEAT）",
+          "url": "https://www.heatwalkingcycling.org/?&heat_locale=en-US&heat_lang=en#homepage",
+          "description": "骑自行车和步行的卫生经济评估工具（HEAT）",
+          "icon": "/sitelogo/www.heatwalkingcycling.org.ico"
+        },
+        {
+          "id": "site-1753193856661",
+          "name": "城市设计游戏",
+          "url": "https://www.playthecity.eu/",
+          "description": "2015港深双年展",
+          "icon": "/sitelogo/www.playthecity.eu.ico"
+        },
+        {
+          "id": "site-1753193889871",
+          "name": "Urban Theory Lab",
+          "url": "https://urbantheorylab.net/",
+          "description": "The University of Chicago’s Urban Theory Lab (UTL) ",
+          "icon": "/sitelogo/urbantheorylab.net.ico"
+        }
+      ]
+    },
+    {
       "id": "ai-tools",
       "name": "AI产品",
       "icon": "🤖",
-      "order": 1,
+      "order": 2,
       "sites": [
         {
           "id": "chatgpt",
@@ -97,7 +154,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "github",
@@ -182,7 +239,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "tinypng",
@@ -204,7 +261,7 @@ export const mockData = {
       "id": "category-1753191024840",
       "icon": "👋",
       "name": "算法&模型集",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "site-1753191052918",
@@ -240,7 +297,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "linuxdo",
@@ -283,7 +340,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "notion",
@@ -319,7 +376,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "figma",
@@ -355,7 +412,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "mdn",
@@ -391,7 +448,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "cloudflare",
@@ -455,7 +512,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "binance",
@@ -519,7 +576,7 @@ export const mockData = {
       "id": "category-1753192622842",
       "icon": "🧨",
       "name": "有趣网站",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "site-1753192685201",
@@ -548,7 +605,7 @@ export const mockData = {
       "id": "category-1753193138124",
       "icon": "✨",
       "name": "天文",
-      "order": 12,
+      "order": 13,
       "sites": [
         {
           "id": "site-1753193168580",
@@ -567,67 +624,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1753193445180",
-      "icon": "📚",
-      "name": "学术研究",
-      "order": 0,
-      "sites": [
-        {
-          "id": "site-1753193482721",
-          "name": "全球城市设计指南",
-          "url": "https://globaldesigningcities.org/",
-          "description": "全球城市设计指南",
-          "icon": "/sitelogo/globaldesigningcities.org.ico"
-        },
-        {
-          "id": "site-1753193547600",
-          "name": "欧盟交通亮点",
-          "url": "https://transport.ec.europa.eu/index_en",
-          "description": "欧盟交通亮点新闻",
-          "icon": "/sitelogo/transport.ec.europa.eu.ico"
-        },
-        {
-          "id": "site-1753193678543",
-          "name": "DeCodingSpaces toolkit",
-          "url": "https://toolbox.decodingspaces.net/",
-          "description": "基于GH的城市生成DeCodingSpaces toolkit，街道网络、地块和建筑物的计算分析和生成",
-          "icon": "/sitelogo/toolbox.decodingspaces.net.ico"
-        },
-        {
-          "id": "site-1753193755378",
-          "name": "MIT-cityscope",
-          "url": "https://cityscope.media.mit.edu/",
-          "description": "https://github.com/CityScope",
-          "icon": "/sitelogo/cityscope.media.mit.edu.ico"
-        },
-        {
-          "id": "site-1753193598417",
-          "name": "评估工具（HEAT）",
-          "url": "https://www.heatwalkingcycling.org/?&heat_locale=en-US&heat_lang=en#homepage",
-          "description": "骑自行车和步行的卫生经济评估工具（HEAT）",
-          "icon": "/sitelogo/www.heatwalkingcycling.org.ico"
-        },
-        {
-          "id": "site-1753193856661",
-          "name": "城市设计游戏",
-          "url": "https://www.playthecity.eu/",
-          "description": "2015港深双年展",
-          "icon": "/sitelogo/www.playthecity.eu.ico"
-        },
-        {
-          "id": "site-1753193889871",
-          "name": "Urban Theory Lab",
-          "url": "https://urbantheorylab.net/",
-          "description": "The University of Chicago’s Urban Theory Lab (UTL) ",
-          "icon": "/sitelogo/urbantheorylab.net.ico"
-        }
-      ]
-    },
-    {
       "id": "category-1753193953323",
       "icon": "📊",
       "name": "信息可视化",
-      "order": 0,
+      "order": 14,
       "sites": [
         {
           "id": "site-1753193986327",
