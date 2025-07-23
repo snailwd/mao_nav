@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://www.bilibili.com/watchlater/list?spm_id_from=333.1387.0.0#/list",
           "description": "",
           "icon": "/sitelogo/www.bilibili.com.ico"
+        },
+        {
+          "id": "site-1753290703488",
+          "name": "Garmin Connect",
+          "url": "https://sso.garmin.cn/portal/sso/en-US/sign-in?clientId=GarminConnect&service=https%3A%2F%2Fconnect.garmin.cn%2Fmodern%2Fsleep%2F2020-01-11",
+          "description": "Garmin Connect",
+          "icon": "https://connect.garmin.cn/static/logo-sprite-@2x-87aa58de41a3347bb5fc1e8ad25c31b6.png"
         }
       ]
     },
@@ -111,6 +118,47 @@ export const mockData = {
           "url": "https://urbantheorylab.net/",
           "description": "The University of Chicago’s Urban Theory Lab (UTL) ",
           "icon": "/sitelogo/urbantheorylab.net.ico"
+        },
+        {
+          "id": "site-1753289198625",
+          "name": "论文地图",
+          "url": "https://www.visualcomplexity.com/",
+          "description": "用图表组织论文思路",
+          "icon": "https://www.visualcomplexity.com/wp-content/uploads/2025/04/infographics-2048x1682.webp"
+        },
+        {
+          "id": "site-1753289879717",
+          "name": "鲁汶设计研究小组",
+          "url": "https://rxd.architectuur.kuleuven.be/",
+          "description": "a design-oriented research group within the Department of Architecture at KU Leuven university. We investigate how spaces, buildings and cities can be #designed and #fabricated to become more #healthy, #inclusive, and #interactive.|"
+        },
+        {
+          "id": "site-1753290246702",
+          "name": "EPFL-lab",
+          "url": "https://www.epfl.ch/education/phd/edar-architecture-and-sciences-of-the-city/edar-affiliated-labs-research-expertise/",
+          "description": "EDAR Affiliated labs & Research expertise",
+          "icon": "/sitelogo/www.epfl.ch.ico"
+        },
+        {
+          "id": "site-1753290304900",
+          "name": "ETH-未来城市实验室",
+          "url": "https://fcl.ethz.ch/",
+          "description": "Future Cities Laboratory",
+          "icon": "/sitelogo/fcl.ethz.ch.ico"
+        },
+        {
+          "id": "site-1753290348109",
+          "name": "UCL-CASA",
+          "url": "http://blogs.casa.ucl.ac.uk/",
+          "description": "The latest outputs from researchers, alumni and friends at the UCL Centre for Advanced Spatial Analysis (CASA).",
+          "icon": "/sitelogo/blogs.casa.ucl.ac.uk.ico"
+        },
+        {
+          "id": "site-1753290482381",
+          "name": "cycling论文",
+          "url": "https://journals.plos.org/plosone/search?filterJournals=PLoSONE&q=Environmental%20correlates%20of%20walking%20and%20cycling%3A%20findings%20from%20the%20transportation%2C%20urban%20design%2C%20and%20planning%20literatures",
+          "description": "cycling论文搜索结果",
+          "icon": "/sitelogo/journals.plos.org.ico"
         }
       ]
     },
@@ -211,6 +259,13 @@ export const mockData = {
           "url": "https://www.finch3d.com/",
           "description": "AI建筑设计工具",
           "icon": "/sitelogo/www.finch3d.com.ico"
+        },
+        {
+          "id": "site-1753290014581",
+          "name": "matterport",
+          "url": "https://matterport.com/",
+          "description": "三维扫面重建",
+          "icon": "/sitelogo/matterport.com.ico"
         }
       ]
     },
@@ -397,6 +452,20 @@ export const mockData = {
           "url": "https://www.coursera.org",
           "description": "在线课程平台",
           "icon": "/sitelogo/www.coursera.org.ico"
+        },
+        {
+          "id": "site-1753288539010",
+          "name": "创研成果合集",
+          "url": "http://cargocollective.com/ideaworks/2013",
+          "description": "创研综合设计研究所2013研究成果合集",
+          "icon": "/sitelogo/cargocollective.com.ico"
+        },
+        {
+          "id": "site-1753288647382",
+          "name": "officeplus",
+          "url": "https://www.officeplus.cn/PPT/template/?cat=PPT&tag=2",
+          "description": "ppt模板库",
+          "icon": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/powerpoint_48x1.svg"
         }
       ]
     },
@@ -532,6 +601,13 @@ export const mockData = {
           "url": "https://entertrained.app/books",
           "description": "各种英文书的打字练习",
           "icon": "/sitelogo/entertrained.app.ico"
+        },
+        {
+          "id": "site-1753289325188",
+          "name": "有意识的灵感",
+          "url": "https://archidialog.com/tag/sanaa/",
+          "description": "建筑设计灵感",
+          "icon": "/sitelogo/archidialog.com.ico"
         }
       ]
     },
@@ -638,6 +714,20 @@ export const mockData = {
           "url": "https://www.windy.com/30.639/104.111?radar,30.636,104.115,8",
           "description": "气象云图风雨雷电",
           "icon": "/sitelogo/www.windy.com.ico"
+        },
+        {
+          "id": "site-1753289071736",
+          "name": "GIS 有哪些酷炫的应用",
+          "url": "https://www.zhihu.com/question/30616181",
+          "description": "",
+          "icon": "/sitelogo/www.zhihu.com.ico"
+        },
+        {
+          "id": "site-1753289711796",
+          "name": "Cosmos",
+          "url": "https://cosmos-book.github.io/",
+          "description": " The infographic book of space",
+          "icon": "https://cosmos-book.github.io/missions/images/logo_nasa.png"
         }
       ]
     },
@@ -703,6 +793,13 @@ export const mockData = {
           "url": "http://visualizingarchitecture.com/",
           "description": "建筑可视化教程",
           "icon": "/sitelogo/visualizingarchitecture.com.ico"
+        },
+        {
+          "id": "site-1753291183749",
+          "name": "Python - carpentry",
+          "url": "https://swcarpentry.github.io/python-novice-inflammation/01-intro.html",
+          "description": "python教程",
+          "icon": "/sitelogo/swcarpentry.github.io.ico"
         }
       ]
     },
@@ -912,6 +1009,34 @@ export const mockData = {
           "url": "http://www.uedart.com/tool.html",
           "description": "设计工具下载集锦",
           "icon": "http://www.uedart.com/images/tool/p49.png"
+        },
+        {
+          "id": "site-1753288598276",
+          "name": "草图模型网",
+          "url": "http://www.52edy.com/news/list_1_6.html",
+          "description": "SU模型库",
+          "icon": "/sitelogo/www.52edy.com.ico"
+        },
+        {
+          "id": "site-1753288711339",
+          "name": "共享单车数据相关",
+          "url": "https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6+%E6%95%B0%E6%8D%AE&ie=utf8&_sug_=n&_sug_type_=",
+          "description": "共享单车数据微信搜索结果",
+          "icon": "/sitelogo/weixin.sogou.com.ico"
+        },
+        {
+          "id": "site-1753290762504",
+          "name": "3Dwarehouse",
+          "url": "https://3dwarehouse.sketchup.com/by/ZEworkroom#models",
+          "description": "3Dwarehouse SU素材模型",
+          "icon": "/sitelogo/3dwarehouse.sketchup.com.ico"
+        },
+        {
+          "id": "site-1753291277632",
+          "name": "建筑设计中的非现场调研",
+          "url": "https://caup.tongji.edu.cn/3f/43/c10928a147267/page.htm",
+          "description": "同济-徐磊青-课程ppt",
+          "icon": "/sitelogo/caup.tongji.edu.cn.ico"
         }
       ]
     },
@@ -1190,6 +1315,13 @@ export const mockData = {
           "url": "https://issuu.com/search?q=architecture",
           "description": "建筑作品集",
           "icon": "/sitelogo/issuu.com.ico"
+        },
+        {
+          "id": "site-1753288966761",
+          "name": "设计小咖",
+          "url": "https://www.iamxk.com/navigation",
+          "description": "设计网址导航",
+          "icon": "/sitelogo/www.iamxk.com.ico"
         }
       ]
     },
@@ -1212,6 +1344,13 @@ export const mockData = {
           "url": "https://www.cityscapes-dataset.com/",
           "description": "街景数据集",
           "icon": "/sitelogo/www.cityscapes-dataset.com.ico"
+        },
+        {
+          "id": "site-1753289751138",
+          "name": "前瞻数据库",
+          "url": "https://d.qianzhan.com/",
+          "description": "前瞻数据库",
+          "icon": "/sitelogo/d.qianzhan.com.ico"
         }
       ]
     }
