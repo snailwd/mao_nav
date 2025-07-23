@@ -57,6 +57,13 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
+          "id": "site-1753269044683",
+          "name": "open knowledge map",
+          "url": "https://openknowledgemaps.org/map/2be94a09355d52597da51cc236f3b000?area=5",
+          "description": "开放知识图谱",
+          "icon": "/sitelogo/openknowledgemaps.org.ico"
+        },
+        {
           "id": "site-1753193482721",
           "name": "全球城市设计指南",
           "url": "https://globaldesigningcities.org/",
