@@ -114,6 +114,13 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
+          "id": "feishu",
+          "name": "飞书",
+          "url": "https://www.feishu.cn",
+          "description": "企业协作平台",
+          "icon": "/sitelogo/www.feishu.cn.ico"
+        },
+        {
           "id": "notion",
           "name": "Notion",
           "url": "https://www.notion.so",
@@ -133,13 +140,6 @@ export const mockData = {
           "url": "https://trello.com",
           "description": "项目管理工具",
           "icon": "/sitelogo/trello.com.ico"
-        },
-        {
-          "id": "feishu",
-          "name": "飞书",
-          "url": "https://www.feishu.cn",
-          "description": "企业协作平台",
-          "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
     },
@@ -726,6 +726,21 @@ export const mockData = {
           "url": "https://www.tortoisemedia.com/data/global-ai#data",
           "description": "全球人工智能指数，纸质感的图表可视化",
           "icon": "/sitelogo/www.tortoisemedia.com.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1753267607660",
+      "icon": "🎫",
+      "name": "考试",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1753267641621",
+          "name": "考公集锦",
+          "url": "https://www.kdocs.cn/l/ctYoDB9lU4o9",
+          "description": "考公资料们",
+          "icon": "/sitelogo/www.kdocs.cn.ico"
         }
       ]
     }
