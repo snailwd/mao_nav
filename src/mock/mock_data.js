@@ -766,6 +766,12 @@ export const mockData = {
           "url": "https://incompetech.com/graphpaper/",
           "description": "免费patch，PDF图案生成",
           "icon": "/sitelogo/incompetech.com.ico"
+        },
+        {
+          "id": "site-1753285770185",
+          "name": "archgo",
+          "url": "http://archgo.com/index.php?limitstart=1970",
+          "description": "建筑案例，云渲染"
         }
       ]
     },
@@ -1037,6 +1043,13 @@ export const mockData = {
           "url": "https://unsplash.com/",
           "description": "商用免费图库",
           "icon": "/sitelogo/unsplash.com.ico"
+        },
+        {
+          "id": "site-1753285816222",
+          "name": "issuu",
+          "url": "https://issuu.com/search?q=architecture",
+          "description": "建筑作品集",
+          "icon": "/sitelogo/issuu.com.ico"
         }
       ]
     }
