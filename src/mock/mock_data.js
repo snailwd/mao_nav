@@ -204,6 +204,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1753287851474",
+          "name": "finch",
+          "url": "https://www.finch3d.com/",
+          "description": "AI建筑设计工具",
+          "icon": "/sitelogo/www.finch3d.com.ico"
         }
       ]
     },
@@ -268,6 +275,13 @@ export const mockData = {
           "url": "https://www.iloveimg.com/zh-cn/compress-image/compress-gif",
           "description": "在线压缩GIF",
           "icon": "/sitelogo/www.iloveimg.com.ico"
+        },
+        {
+          "id": "site-1753286334179",
+          "name": "rasterbator",
+          "url": "https://rasterbator.net/",
+          "description": "将图片栅格化",
+          "icon": "/sitelogo/rasterbator.net.ico"
         }
       ]
     },
@@ -524,7 +538,7 @@ export const mockData = {
     {
       "id": "category-1753193138124",
       "icon": "✨",
-      "name": "天文",
+      "name": "天文地理",
       "order": 10,
       "sites": [
         {
@@ -540,6 +554,90 @@ export const mockData = {
           "url": "https://eleanorlutz.com/mapping-18000-asteroids",
           "description": "伟大的宇宙可视化",
           "icon": "/sitelogo/eleanorlutz.com.ico"
+        },
+        {
+          "id": "site-1753286646509",
+          "name": "个人地图可视化",
+          "url": "https://github.com/gisdata/chiangbt.github.io",
+          "description": "个人地图项目",
+          "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1753286680598",
+          "name": "数据地图工具盘点",
+          "url": "https://www.jianshu.com/p/acecc956f9b9",
+          "description": "",
+          "icon": "/sitelogo/www.jianshu.com.ico"
+        },
+        {
+          "id": "site-1753286807409",
+          "name": "实时空气质量指数地图",
+          "url": "https://aqicn.org/map/world/cn/#@g/-1.0271/75.5859/2z",
+          "description": "实时空气质量指数地图",
+          "icon": "/sitelogo/aqicn.org.ico"
+        },
+        {
+          "id": "site-1753286824217",
+          "name": "雾霾地图",
+          "url": "https://earth.nullschool.net/",
+          "description": "",
+          "icon": "/sitelogo/earth.nullschool.net.ico"
+        },
+        {
+          "id": "site-1753287024840",
+          "name": "Natural Earth",
+          "url": "https://www.naturalearthdata.com/",
+          "description": "是一个公共领域地图数据集，提供 1:10 米、1:50 米和 1:1.1 亿比例尺",
+          "icon": "/sitelogo/www.naturalearthdata.com.ico"
+        },
+        {
+          "id": "site-1753287085740",
+          "name": "地图可视化",
+          "url": "https://www.redgeographics.com/portfolio/?lang=en",
+          "description": "制图公司作品集",
+          "icon": "/sitelogo/www.redgeographics.com.ico"
+        },
+        {
+          "id": "site-1753287126982",
+          "name": "strava热力图",
+          "url": "https://www.strava.com/maps/global-heatmap#2.00/82.21351/26.29969/hot/all",
+          "description": "strava热力图",
+          "icon": "/sitelogo/www.strava.com.ico"
+        },
+        {
+          "id": "site-1753287203032",
+          "name": "datav矢量地图",
+          "url": "http://datav.aliyun.com/portal/school/atlas/area_selector#&lat=31.80289258670676&lng=104.2822265625&zoom=4",
+          "description": "阿里的地图选择器矢量地图",
+          "icon": "/sitelogo/datav.aliyun.com.ico"
+        },
+        {
+          "id": "site-1753287300593",
+          "name": "onemap",
+          "url": "https://www.onemap.gov.sg/",
+          "description": "新加坡地图，土地利用，阴影查询",
+          "icon": "/sitelogo/www.onemap.gov.sg.ico"
+        },
+        {
+          "id": "site-1753287412838",
+          "name": "mapbox",
+          "url": "https://www.mapbox.com/studio/styles/day1111/cjmgdwi9q3qye2rsc1k5fib6k/edit/",
+          "description": "mapbox样式编辑",
+          "icon": "/sitelogo/www.mapbox.com.ico"
+        },
+        {
+          "id": "site-1753287433628",
+          "name": "axhub",
+          "url": "https://axhub.im/maps/",
+          "description": "可复制到AXURE的SVG地图",
+          "icon": "/sitelogo/axhub.im.ico"
+        },
+        {
+          "id": "site-1753287509313",
+          "name": "气象云图风雨雷电",
+          "url": "https://www.windy.com/30.639/104.111?radar,30.636,104.115,8",
+          "description": "气象云图风雨雷电",
+          "icon": "/sitelogo/www.windy.com.ico"
         }
       ]
     },
@@ -555,6 +653,13 @@ export const mockData = {
           "url": "https://www.xiaolvji.com/u/ljyandlwl",
           "description": "他人整理的导航集",
           "icon": "/sitelogo/www.xiaolvji.com.ico"
+        },
+        {
+          "id": "site-1753286247893",
+          "name": "规划头条",
+          "url": "https://www.upnews.cn/archives/24698",
+          "description": "规划头条导航",
+          "icon": "/sitelogo/www.upnews.cn.ico"
         }
       ]
     },
@@ -772,6 +877,34 @@ export const mockData = {
           "name": "archgo",
           "url": "http://archgo.com/index.php?limitstart=1970",
           "description": "建筑案例，云渲染"
+        },
+        {
+          "id": "site-1753285915052",
+          "name": "architizer",
+          "url": "https://architizer.com/projects/open-air-theatre1/",
+          "description": "建筑案例",
+          "icon": "/sitelogo/architizer.com.ico"
+        },
+        {
+          "id": "site-1753285965939",
+          "name": "food4rhino",
+          "url": "https://www.food4rhino.com/en",
+          "description": "gh-rh插件",
+          "icon": "/sitelogo/www.food4rhino.com.ico"
+        },
+        {
+          "id": "site-1753286015112",
+          "name": "紫天Sketchup中文网",
+          "url": "http://www.sublog.net/page/2",
+          "description": "SU插件-素材-软件",
+          "icon": "/sitelogo/www.sublog.net.ico"
+        },
+        {
+          "id": "site-1753286100534",
+          "name": "uedart",
+          "url": "http://www.uedart.com/tool.html",
+          "description": "设计工具下载集锦",
+          "icon": "http://www.uedart.com/images/tool/p49.png"
         }
       ]
     },
@@ -1050,6 +1183,28 @@ export const mockData = {
           "url": "https://issuu.com/search?q=architecture",
           "description": "建筑作品集",
           "icon": "/sitelogo/issuu.com.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1753287633839",
+      "icon": "🌏",
+      "name": "城市数据",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1753287662200",
+          "name": "Stava Lab",
+          "url": "https://labs.strava.com/projects/",
+          "description": "stava lab",
+          "icon": "/sitelogo/labs.strava.com.ico"
+        },
+        {
+          "id": "site-1753287691979",
+          "name": "cityscapes",
+          "url": "https://www.cityscapes-dataset.com/",
+          "description": "街景数据集",
+          "icon": "/sitelogo/www.cityscapes-dataset.com.ico"
         }
       ]
     }
