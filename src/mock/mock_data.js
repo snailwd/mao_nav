@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://sso.garmin.cn/portal/sso/en-US/sign-in?clientId=GarminConnect&service=https%3A%2F%2Fconnect.garmin.cn%2Fmodern%2Fsleep%2F2020-01-11",
           "description": "Garmin Connect",
           "icon": "https://connect.garmin.cn/static/logo-sprite-@2x-87aa58de41a3347bb5fc1e8ad25c31b6.png"
+        },
+        {
+          "id": "site-1753370499780",
+          "name": "循环猫",
+          "url": "https://learn.circlecat.cn/login/index.php",
+          "description": "循环猫编程学习网站",
+          "icon": "https://learn.circlecat.cn/pluginfile.php/1/core_admin/logo/0x200/1732156899/%E5%BE%AA%E7%8E%AF%E7%8C%AB_%E7%94%BB%E6%9D%BF%201%20%282%29.png"
         }
       ]
     },
@@ -202,6 +209,27 @@ export const mockData = {
           "url": "https://rxd.architectuur.kuleuven.be/",
           "description": "a design-oriented research group within the Department of Architecture at KU Leuven university. We investigate how spaces, buildings and cities can be #designed and #fabricated to become more #healthy, #inclusive, and #interactive.|",
           "icon": "https://rxd.architectuur.kuleuven.be/wp-content/uploads/rxd_logo_vertical_b.png"
+        },
+        {
+          "id": "site-1753370363824",
+          "name": "MIT-City Form Lab",
+          "url": "https://cityform.mit.edu/",
+          "description": "MIT-City Form Lab",
+          "icon": "/sitelogo/cityform.mit.edu.ico"
+        },
+        {
+          "id": "site-1753371710550",
+          "name": "城市再生的替代建模",
+          "url": "https://vip-smur.github.io/#the-problem",
+          "description": "利用替代建模的方法来研究和推动城市再生项目",
+          "icon": "https://vip-smur.github.io/images/sustainlab-smur-logo-wordmark-color-white.svg#dark-only"
+        },
+        {
+          "id": "site-1753371869546",
+          "name": "netlogo在线版",
+          "url": "https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Art/Fireworks.nlogo",
+          "description": "netlogo在线版",
+          "icon": "/sitelogo/www.netlogoweb.org.ico"
         }
       ]
     },
@@ -516,6 +544,27 @@ export const mockData = {
           "url": "https://www.livingdatastudies.com/activities/education",
           "description": "建筑规划数据教育",
           "icon": "https://images.prismic.io/living-data-studies/ZytUxa8jQArT0SSV_DDS_Logo-Black_PNG.png?auto=format%2Ccompress&width=3840"
+        },
+        {
+          "id": "site-1753367500038",
+          "name": "菜鸟教程",
+          "url": "https://www.runoob.com/",
+          "description": "菜鸟教程",
+          "icon": "/sitelogo/www.runoob.com.ico"
+        },
+        {
+          "id": "site-1753369905783",
+          "name": "Kaggle learn",
+          "url": "https://www.kaggle.com/learn",
+          "description": "Kaggle learn",
+          "icon": "/sitelogo/www.kaggle.com.ico"
+        },
+        {
+          "id": "site-1753370960412",
+          "name": "ai-4-all",
+          "url": "https://ai-4-all.org/resources/",
+          "description": "Explore resources tailored to deepen your AI expertise and knowledge.",
+          "icon": "/sitelogo/ai-4-all.org.ico"
         }
       ]
     },
@@ -828,6 +877,27 @@ export const mockData = {
           "url": "https://mitcommlab.mit.edu/find-comm-labs/#explorecommkit",
           "description": "MIT海报、期刊文章和奖学金申请等技术沟通需求的快速指南、范例",
           "icon": "/sitelogo/mitcommlab.mit.edu.ico"
+        },
+        {
+          "id": "site-1753368333932",
+          "name": "Dribbble-方迟",
+          "url": "https://dribbble.com/jordanfc",
+          "description": "Dribbble-方迟",
+          "icon": "/sitelogo/dribbble.com.ico"
+        },
+        {
+          "id": "site-1753368386729",
+          "name": "Dribbble-pacco",
+          "url": "https://dribbble.com/pacoxiao",
+          "description": "",
+          "icon": "/sitelogo/dribbble.com.ico"
+        },
+        {
+          "id": "site-1753372142797",
+          "name": "AI Agent-李飞飞",
+          "url": "https://linxkon.github.io/AI_Agent%E5%85%A8%E6%99%AF%E8%B0%83%E7%A0%94.html",
+          "description": "AI Agent：多模态交互前沿调查-李飞飞团队",
+          "icon": "https://linxkon.github.io/images/index_pic/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E4%B8%9A%E6%9C%AF%E8%AF%AD.png"
         }
       ]
     },
@@ -906,6 +976,213 @@ export const mockData = {
           "url": "https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home",
           "description": "CS50 使用 Python 进行人工智能",
           "icon": "/sitelogo/learning.edx.org.ico"
+        },
+        {
+          "id": "site-1753367469000",
+          "name": "wikihow",
+          "url": "https://zh.wikihow.com/%E9%A6%96%E9%A1%B5",
+          "description": "各种指南",
+          "icon": "/sitelogo/zh.wikihow.com.ico"
+        },
+        {
+          "id": "site-1753367935897",
+          "name": "Gephi教程",
+          "url": "https://www.udemy.com/course/gephi/learn/lecture/65918#content",
+          "description": "gephi教程-udemy",
+          "icon": "/sitelogo/www.udemy.com.ico"
+        },
+        {
+          "id": "site-1753368208215",
+          "name": "大鹏教你玩数据",
+          "url": "https://study.163.com/course/courseLearn.htm?courseId=1003683041#/learn/live?lessonId=1279094067&courseId=1003683041",
+          "description": "大鹏教你玩数据",
+          "icon": "/sitelogo/study.163.com.ico"
+        },
+        {
+          "id": "site-1753367999133",
+          "name": "Processing教程",
+          "url": "https://processing.org/tutorials/",
+          "description": "processing教程",
+          "icon": "/sitelogo/processing.org.ico"
+        },
+        {
+          "id": "site-1753368289315",
+          "name": "MIT-人工智能公开课",
+          "url": "https://open.163.com/newview/movie/free?pid=MCTMNN3UI&mid=MCTMNR8QS",
+          "description": "MIT-人工智能公开课",
+          "icon": "/sitelogo/open.163.com.ico"
+        },
+        {
+          "id": "site-1753368430278",
+          "name": "IDEO",
+          "url": "https://designthinking.ideo.com/",
+          "description": "IDEO-Design Thinking",
+          "icon": "/sitelogo/designthinking.ideo.com.ico"
+        },
+        {
+          "id": "site-1753368618107",
+          "name": "Model Thiking",
+          "url": "https://www.bilibili.com/video/av9994383/?p=4",
+          "description": "模型思维",
+          "icon": "/sitelogo/www.bilibili.com.ico"
+        },
+        {
+          "id": "site-1753369125054",
+          "name": "TUD-重新思考城市",
+          "url": "https://online-learning.tudelft.nl/courses/rethink-the-city-new-approaches-to-global-and-local-urban-challenge/",
+          "description": "TUD-重新思考城市：应对全球和地方城市挑战的新方法",
+          "icon": "/sitelogo/online-learning.tudelft.nl.ico"
+        },
+        {
+          "id": "site-1753369682277",
+          "name": "Datacamp-python",
+          "url": "https://campus.datacamp.com/courses/intermediate-python-for-data-science/matplotlib?ex=13",
+          "description": "datacamp-python",
+          "icon": "/sitelogo/campus.datacamp.com.ico"
+        },
+        {
+          "id": "site-1753369752377",
+          "name": "Datacamp-Joining Data with pandas",
+          "url": "https://campus.datacamp.com/courses/joining-data-with-pandas/data-merging-basics?ex=1",
+          "description": "datacamp-Joining Data with pandas",
+          "icon": "/sitelogo/campus.datacamp.com.ico"
+        },
+        {
+          "id": "site-1753369801978",
+          "name": "Project python",
+          "url": "http://projectpython.net/chapter01/index.html",
+          "description": "Project python"
+        },
+        {
+          "id": "site-1753369940398",
+          "name": "Leetcode-机器学习",
+          "url": "https://leetcode.cn/leetbook/read/machine-learning-101/cspag/",
+          "description": "leetcode-机器学习",
+          "icon": "/sitelogo/leetcode.cn.ico"
+        },
+        {
+          "id": "site-1753369976647",
+          "name": "如何做数据可视化",
+          "url": "https://www.bilibili.com/video/av14732029/?from=search&seid=13179831842012472190",
+          "description": "如何做数据可视化-BitTiger",
+          "icon": "/sitelogo/www.bilibili.com.ico"
+        },
+        {
+          "id": "site-1753370158357",
+          "name": "阿里云-python学习路线",
+          "url": "https://developer.aliyun.com/learning/roadmap/python",
+          "description": "python学习路线",
+          "icon": "/sitelogo/developer.aliyun.com.ico"
+        },
+        {
+          "id": "site-1753370213395",
+          "name": "国外Python完全初学者教程（从装软件教起）",
+          "url": "https://www.bilibili.com/video/av39110187/?spm_id_from=333.788.videocard.31&vd_source=54ead39ef4673f33f7cc791152894345",
+          "description": "国外Python完全初学者教程（从装软件教起）",
+          "icon": "/sitelogo/www.bilibili.com.ico"
+        },
+        {
+          "id": "site-1753370268258",
+          "name": "大数据与城市规划",
+          "url": "https://next.xuetangx.com/course/THU08281001132/26283987?channel=i.area.learn_title",
+          "description": "大数据与城市规划-龙瀛",
+          "icon": "/sitelogo/next.xuetangx.com.ico"
+        },
+        {
+          "id": "site-1753370323528",
+          "name": "SQL教程-廖雪峰",
+          "url": "https://liaoxuefeng.com/books/sql/relational/index/index.html",
+          "description": "SQL教程-廖雪峰",
+          "icon": "/sitelogo/liaoxuefeng.com.ico"
+        },
+        {
+          "id": "site-1753370673043",
+          "name": "《编程不难》 | 鸢尾花书",
+          "url": "https://github.com/Visualize-ML",
+          "description": "《编程不难》 | 鸢尾花书",
+          "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1753370702236",
+          "name": "OD算法题解",
+          "url": "https://datawhalechina.github.io/huawei-od-python/#/choice100/001_AI-Processor-Combination",
+          "description": "OD算法题解"
+        },
+        {
+          "id": "site-1753370736108",
+          "name": "CS61a",
+          "url": "https://cs61a.org/",
+          "description": "Structure and Interpretation of Computer Programs",
+          "icon": "/sitelogo/cs61a.org.ico"
+        },
+        {
+          "id": "site-1753370778007",
+          "name": "Sql Zoo",
+          "url": "https://sqlzoo.net/wiki/SQL_Tutorial",
+          "description": "Practice Data Science/Analysis with +100 Real Life Projects",
+          "icon": "/sitelogo/sqlzoo.net.ico"
+        },
+        {
+          "id": "site-1753371309972",
+          "name": "Threejs-journey",
+          "url": "https://threejs-journey.com/lessons/debug-ui#",
+          "description": "Threejs-Bruno大神教程",
+          "icon": "/sitelogo/threejs-journey.com.ico"
+        },
+        {
+          "id": "site-1753371345153",
+          "name": "聪明办法学python-打他whale",
+          "url": "https://datawhalechina.github.io/learn-python-the-smart-way-v2/Schedule/schedule/",
+          "description": "聪明办法学python-datawhale"
+        },
+        {
+          "id": "site-1753371384772",
+          "name": "聪明办法学python-作业系统",
+          "url": "https://hydro.ac/d/datawhale_p2s/login?redirect=%2Fd%2Fdatawhale_p2s%2F%3Fnotification%3DSuccessfully%2520joined%2520domain.",
+          "description": "聪明办法学python-作业系统",
+          "icon": "/sitelogo/hydro.ac.ico"
+        },
+        {
+          "id": "site-1753371411457",
+          "name": "代码随想录",
+          "url": "https://www.programmercarl.com/",
+          "description": "代码随想录",
+          "icon": "/sitelogo/www.programmercarl.com.ico"
+        },
+        {
+          "id": "site-1753371429201",
+          "name": "Hello 算法",
+          "url": "https://www.hello-algo.com/chapter_preface/suggestions/",
+          "description": "Hello 算法",
+          "icon": "/sitelogo/www.hello-algo.com.ico"
+        },
+        {
+          "id": "site-1753371477123",
+          "name": "CS自学指南",
+          "url": "https://csdiy.wiki/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/#_2",
+          "description": "CS自学指南",
+          "icon": "/sitelogo/csdiy.wiki.ico"
+        },
+        {
+          "id": "site-1753371506129",
+          "name": "nVidia词汇表",
+          "url": "https://www.nvidia.cn/glossary/vision-language-models/",
+          "description": "nVidia词汇表",
+          "icon": "/sitelogo/www.nvidia.cn.ico"
+        },
+        {
+          "id": "site-1753372345762",
+          "name": "用python进行地理数据科学",
+          "url": "https://geographicdata.science/book/intro.html",
+          "description": "地理数据科学入门，开放库",
+          "icon": "/sitelogo/geographicdata.science.ico"
+        },
+        {
+          "id": "site-1753372408840",
+          "name": "PythonGis",
+          "url": "https://pythongis.org/",
+          "description": "online version of the book “Introduction to Python for Geographic Data Analysis”",
+          "icon": "https://pythongis.org/_static/pythongis-logo.png"
         }
       ]
     },
