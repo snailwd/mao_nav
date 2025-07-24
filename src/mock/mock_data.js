@@ -60,7 +60,7 @@ export const mockData = {
     {
       "id": "category-1753193445180",
       "icon": "📚",
-      "name": "学术研究",
+      "name": "城市研究",
       "order": 1,
       "sites": [
         {
@@ -159,6 +159,27 @@ export const mockData = {
           "url": "https://journals.plos.org/plosone/search?filterJournals=PLoSONE&q=Environmental%20correlates%20of%20walking%20and%20cycling%3A%20findings%20from%20the%20transportation%2C%20urban%20design%2C%20and%20planning%20literatures",
           "description": "cycling论文搜索结果",
           "icon": "/sitelogo/journals.plos.org.ico"
+        },
+        {
+          "id": "site-1753328541865",
+          "name": "扬盖尔",
+          "url": "https://www.gehlpeople.com/services/urban-mobility/",
+          "description": "扬盖尔的knowledgehub",
+          "icon": "/sitelogo/www.gehlpeople.com.ico"
+        },
+        {
+          "id": "site-1753328613832",
+          "name": "CTH-Smog",
+          "url": "https://smog.chalmers.se/",
+          "description": "城市形态小组 | 形式语法工具 Spatial Morphology Group",
+          "icon": "/sitelogo/smog.chalmers.se.ico"
+        },
+        {
+          "id": "site-1753328851095",
+          "name": "bbbike",
+          "url": "https://extract.bbbike.org/",
+          "description": "矢量地图提取",
+          "icon": "https://extract.bbbike.org/images/location-icon.png"
         }
       ]
     },
@@ -337,6 +358,13 @@ export const mockData = {
           "url": "https://rasterbator.net/",
           "description": "将图片栅格化",
           "icon": "/sitelogo/rasterbator.net.ico"
+        },
+        {
+          "id": "site-1753329114198",
+          "name": "Trading Economics",
+          "url": "https://zh.tradingeconomics.com/china/currency",
+          "description": "196国经贸数据、指标",
+          "icon": "/sitelogo/zh.tradingeconomics.com.ico"
         }
       ]
     },
@@ -728,6 +756,20 @@ export const mockData = {
           "url": "https://cosmos-book.github.io/",
           "description": " The infographic book of space",
           "icon": "https://cosmos-book.github.io/missions/images/logo_nasa.png"
+        },
+        {
+          "id": "site-1753328969241",
+          "name": "Map collection",
+          "url": "https://www.davidrumsey.com/",
+          "description": "地图收藏集",
+          "icon": "/sitelogo/www.davidrumsey.com.ico"
+        },
+        {
+          "id": "site-1753329004983",
+          "name": "天文学名词",
+          "url": "https://nadc.china-vo.org/astrodict/",
+          "description": "天文学名词",
+          "icon": "/sitelogo/nadc.china-vo.org.ico"
         }
       ]
     },
@@ -894,24 +936,11 @@ export const mockData = {
           "icon": "https://www.toptal.com/designers/subtlepatterns/uploads/more-leaves-on-green.png"
         },
         {
-          "id": "site-1753284267369",
-          "name": "xoio",
-          "url": "https://xoio-air.de/",
-          "description": "blender素材"
-        },
-        {
           "id": "site-1753284439506",
           "name": "skalgubbar",
           "url": "https://skalgubbar.se/",
           "description": "各种人，已扣图，生活化",
           "icon": "http://skalgubbar.se/wp-content/uploads/2017/09/skalgubbar_logo-1.png"
-        },
-        {
-          "id": "site-1753284723288",
-          "name": "建筑概念图",
-          "url": "https://conceptdiagram.tumblr.com/",
-          "description": "建筑概念图",
-          "icon": "http://www.w3.org/2000/svg"
         },
         {
           "id": "site-1753284232399",
@@ -977,45 +1006,31 @@ export const mockData = {
           "icon": "/sitelogo/incompetech.com.ico"
         },
         {
+          "id": "site-1753288598276",
+          "name": "草图模型网",
+          "url": "http://www.52edy.com/news/list_1_6.html",
+          "description": "SU模型库",
+          "icon": "/sitelogo/www.52edy.com.ico"
+        },
+        {
+          "id": "site-1753291277632",
+          "name": "建筑设计中的非现场调研",
+          "url": "https://caup.tongji.edu.cn/3f/43/c10928a147267/page.htm",
+          "description": "同济-徐磊青-课程ppt",
+          "icon": "/sitelogo/caup.tongji.edu.cn.ico"
+        },
+        {
           "id": "site-1753285770185",
           "name": "archgo",
           "url": "http://archgo.com/index.php?limitstart=1970",
           "description": "建筑案例，云渲染"
         },
         {
-          "id": "site-1753285915052",
-          "name": "architizer",
-          "url": "https://architizer.com/projects/open-air-theatre1/",
-          "description": "建筑案例",
-          "icon": "/sitelogo/architizer.com.ico"
-        },
-        {
-          "id": "site-1753285965939",
-          "name": "food4rhino",
-          "url": "https://www.food4rhino.com/en",
-          "description": "gh-rh插件",
-          "icon": "/sitelogo/www.food4rhino.com.ico"
-        },
-        {
-          "id": "site-1753286015112",
-          "name": "紫天Sketchup中文网",
-          "url": "http://www.sublog.net/page/2",
-          "description": "SU插件-素材-软件",
-          "icon": "/sitelogo/www.sublog.net.ico"
-        },
-        {
-          "id": "site-1753286100534",
-          "name": "uedart",
-          "url": "http://www.uedart.com/tool.html",
-          "description": "设计工具下载集锦",
-          "icon": "http://www.uedart.com/images/tool/p49.png"
-        },
-        {
-          "id": "site-1753288598276",
-          "name": "草图模型网",
-          "url": "http://www.52edy.com/news/list_1_6.html",
-          "description": "SU模型库",
-          "icon": "/sitelogo/www.52edy.com.ico"
+          "id": "site-1753284723288",
+          "name": "建筑概念图",
+          "url": "https://conceptdiagram.tumblr.com/",
+          "description": "建筑概念图",
+          "icon": "/sitelogo/conceptdiagram.tumblr.com.ico"
         },
         {
           "id": "site-1753288711339",
@@ -1025,6 +1040,40 @@ export const mockData = {
           "icon": "/sitelogo/weixin.sogou.com.ico"
         },
         {
+          "id": "site-1753329249952",
+          "name": "EPFL-Living Archives",
+          "url": "https://livingarchives.epfl.ch/projects/?type=All&unit=LDM",
+          "description": "official publication platform for all research and education work carried out in laboratories, groups, courses or project studios within EPFL Architecture",
+          "icon": "/sitelogo/livingarchives.epfl.ch.ico"
+        },
+        {
+          "id": "site-1753329362465",
+          "name": "气象地图",
+          "url": "https://www.windy.com/zh/-Weather-radar-radar?radar,29.686,104.130,8",
+          "description": "风地图",
+          "icon": "/sitelogo/www.windy.com.ico"
+        },
+        {
+          "id": "site-1753284267369",
+          "name": "xoio",
+          "url": "https://xoio-air.de/",
+          "description": "blender素材",
+          "icon": "/sitelogo/xoio-air.de.ico"
+        },
+        {
+          "id": "site-1753286100534",
+          "name": "uedart",
+          "url": "http://www.uedart.com/tool.html",
+          "description": "设计工具下载集锦"
+        },
+        {
+          "id": "site-1753285965939",
+          "name": "food4rhino",
+          "url": "https://www.food4rhino.com/en",
+          "description": "gh-rh插件",
+          "icon": "/sitelogo/www.food4rhino.com.ico"
+        },
+        {
           "id": "site-1753290762504",
           "name": "3Dwarehouse",
           "url": "https://3dwarehouse.sketchup.com/by/ZEworkroom#models",
@@ -1032,11 +1081,18 @@ export const mockData = {
           "icon": "/sitelogo/3dwarehouse.sketchup.com.ico"
         },
         {
-          "id": "site-1753291277632",
-          "name": "建筑设计中的非现场调研",
-          "url": "https://caup.tongji.edu.cn/3f/43/c10928a147267/page.htm",
-          "description": "同济-徐磊青-课程ppt",
-          "icon": "/sitelogo/caup.tongji.edu.cn.ico"
+          "id": "site-1753285915052",
+          "name": "architizer",
+          "url": "https://architizer.com/projects/open-air-theatre1/",
+          "description": "建筑案例",
+          "icon": "/sitelogo/architizer.com.ico"
+        },
+        {
+          "id": "site-1753286015112",
+          "name": "紫天Sketchup中文网",
+          "url": "http://www.sublog.net/page/2",
+          "description": "SU插件-素材-软件",
+          "icon": "/sitelogo/www.sublog.net.ico"
         }
       ]
     },
@@ -1201,6 +1257,13 @@ export const mockData = {
           "url": "https://caniuse.com",
           "description": "浏览器兼容性查询",
           "icon": "/sitelogo/caniuse.com.ico"
+        },
+        {
+          "id": "site-1753328919010",
+          "name": "清华镜像",
+          "url": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/?C=M&O=D",
+          "description": "清华大学开源软件镜像站dddd",
+          "icon": "/sitelogo/mirrors.tuna.tsinghua.edu.cn.ico"
         }
       ]
     },
@@ -1332,6 +1395,13 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1753289751138",
+          "name": "前瞻数据库",
+          "url": "https://d.qianzhan.com/",
+          "description": "前瞻数据库",
+          "icon": "/sitelogo/d.qianzhan.com.ico"
+        },
+        {
           "id": "site-1753287662200",
           "name": "Stava Lab",
           "url": "https://labs.strava.com/projects/",
@@ -1344,13 +1414,6 @@ export const mockData = {
           "url": "https://www.cityscapes-dataset.com/",
           "description": "街景数据集",
           "icon": "/sitelogo/www.cityscapes-dataset.com.ico"
-        },
-        {
-          "id": "site-1753289751138",
-          "name": "前瞻数据库",
-          "url": "https://d.qianzhan.com/",
-          "description": "前瞻数据库",
-          "icon": "/sitelogo/d.qianzhan.com.ico"
         }
       ]
     }
