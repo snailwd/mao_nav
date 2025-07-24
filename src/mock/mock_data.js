@@ -64,13 +64,6 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
-          "id": "site-1753269044683",
-          "name": "open knowledge map",
-          "url": "https://openknowledgemaps.org/map/2be94a09355d52597da51cc236f3b000?area=5",
-          "description": "开放知识图谱",
-          "icon": "/sitelogo/openknowledgemaps.org.ico"
-        },
-        {
           "id": "site-1753193482721",
           "name": "全球城市设计指南",
           "url": "https://globaldesigningcities.org/",
@@ -180,6 +173,34 @@ export const mockData = {
           "url": "https://extract.bbbike.org/",
           "description": "矢量地图提取",
           "icon": "https://extract.bbbike.org/images/location-icon.png"
+        },
+        {
+          "id": "site-1753333116968",
+          "name": "Heigit",
+          "url": "https://heigit.org/",
+          "description": "海德堡地理信息研究所",
+          "icon": "/sitelogo/heigit.org.ico"
+        },
+        {
+          "id": "site-1753332792730",
+          "name": "一些关于开放数据的探讨-TUD",
+          "url": "https://newopen.design/peterweibel/",
+          "description": "TUD-New Open Magazine",
+          "icon": "/sitelogo/newopen.design.ico"
+        },
+        {
+          "id": "site-1753333372713",
+          "name": "WHO-城市健康和规划指南",
+          "url": "https://unhabitat.org/sites/default/files/2020/05/1-final_highres_20002_integrating_health_in_urban_and_territorial_planning_a_sourcebook.pdf",
+          "description": "WHO-Integrating health in urban and territorial planning:A sourcebook",
+          "icon": "/sitelogo/unhabitat.org.ico"
+        },
+        {
+          "id": "site-1753269044683",
+          "name": "open knowledge map",
+          "url": "https://openknowledgemaps.org/map/2be94a09355d52597da51cc236f3b000?area=5",
+          "description": "开放知识图谱",
+          "icon": "/sitelogo/openknowledgemaps.org.ico"
         }
       ]
     },
@@ -444,6 +465,13 @@ export const mockData = {
           "url": "http://openkg.cn/datasets-type/",
           "description": "中文开放知识数据集",
           "icon": "/sitelogo/openkg.cn.ico"
+        },
+        {
+          "id": "site-1753330267269",
+          "name": "hyper ai数据集",
+          "url": "https://hyper.ai/cn/datasets",
+          "description": "公开数据集资源",
+          "icon": "/sitelogo/hyper.ai.ico"
         }
       ]
     },
@@ -489,11 +517,10 @@ export const mockData = {
           "icon": "/sitelogo/cargocollective.com.ico"
         },
         {
-          "id": "site-1753288647382",
-          "name": "officeplus",
-          "url": "https://www.officeplus.cn/PPT/template/?cat=PPT&tag=2",
-          "description": "ppt模板库",
-          "icon": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/powerpoint_48x1.svg"
+          "id": "site-1753331849078",
+          "name": "TUD-livingdatastudies",
+          "url": "https://www.livingdatastudies.com/activities/education",
+          "description": "建筑规划数据教育"
         }
       ]
     },
@@ -799,6 +826,13 @@ export const mockData = {
           "url": "http://www.lupaworld.com/article-222907-2.html",
           "description": "可视化工具推荐",
           "icon": "/sitelogo/www.lupaworld.com.ico"
+        },
+        {
+          "id": "site-1753331781375",
+          "name": "CommKit",
+          "url": "https://mitcommlab.mit.edu/find-comm-labs/#explorecommkit",
+          "description": "MIT海报、期刊文章和奖学金申请等技术沟通需求的快速指南、范例",
+          "icon": "/sitelogo/mitcommlab.mit.edu.ico"
         }
       ]
     },
@@ -842,6 +876,41 @@ export const mockData = {
           "url": "https://swcarpentry.github.io/python-novice-inflammation/01-intro.html",
           "description": "python教程",
           "icon": "/sitelogo/swcarpentry.github.io.ico"
+        },
+        {
+          "id": "site-1753332356825",
+          "name": "使用 R 进行数据整理和可视化",
+          "url": "https://rafalab.dfci.harvard.edu/dsbook-part-1/",
+          "description": "使用 R 进行数据整理和可视化",
+          "icon": "/sitelogo/rafalab.dfci.harvard.edu.ico"
+        },
+        {
+          "id": "site-1753332400217",
+          "name": "R案例研究了解统计和预测算法",
+          "url": "https://rafalab.dfci.harvard.edu/dsbook-part-2/",
+          "description": "通过案例研究了解统计和预测算法",
+          "icon": "/sitelogo/rafalab.dfci.harvard.edu.ico"
+        },
+        {
+          "id": "site-1753332493591",
+          "name": "人工智能在建筑设计中的应用",
+          "url": "https://online-learning.tudelft.nl/courses/ai-in-architectural-design/",
+          "description": "Edx-Tud-livingdata",
+          "icon": "/sitelogo/online-learning.tudelft.nl.ico"
+        },
+        {
+          "id": "site-1753332597271",
+          "name": "GIS编程入门",
+          "url": "https://geog-312.gishub.org/book/about/syllabus.html",
+          "description": "田纳西大学-吴秋生",
+          "icon": "/sitelogo/geog-312.gishub.org.ico"
+        },
+        {
+          "id": "site-1753332656864",
+          "name": "CS50 使用 Python 进行人工智能",
+          "url": "https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home",
+          "description": "CS50 使用 Python 进行人工智能",
+          "icon": "/sitelogo/learning.edx.org.ico"
         }
       ]
     },
@@ -1047,13 +1116,6 @@ export const mockData = {
           "icon": "/sitelogo/livingarchives.epfl.ch.ico"
         },
         {
-          "id": "site-1753329362465",
-          "name": "气象地图",
-          "url": "https://www.windy.com/zh/-Weather-radar-radar?radar,29.686,104.130,8",
-          "description": "风地图",
-          "icon": "/sitelogo/www.windy.com.ico"
-        },
-        {
           "id": "site-1753284267369",
           "name": "xoio",
           "url": "https://xoio-air.de/",
@@ -1093,6 +1155,20 @@ export const mockData = {
           "url": "http://www.sublog.net/page/2",
           "description": "SU插件-素材-软件",
           "icon": "/sitelogo/www.sublog.net.ico"
+        },
+        {
+          "id": "site-1753329362465",
+          "name": "气象地图",
+          "url": "https://www.windy.com/zh/-Weather-radar-radar?radar,29.686,104.130,8",
+          "description": "气象雷达|云|风|雨、雷暴|温度|海浪地图、网络摄像头",
+          "icon": "/sitelogo/www.windy.com.ico"
+        },
+        {
+          "id": "site-1753288647382",
+          "name": "officeplus",
+          "url": "https://www.officeplus.cn/PPT/template/?cat=PPT&tag=2",
+          "description": "ppt模板库",
+          "icon": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/powerpoint_48x1.svg"
         }
       ]
     },
@@ -1414,6 +1490,55 @@ export const mockData = {
           "url": "https://www.cityscapes-dataset.com/",
           "description": "街景数据集",
           "icon": "/sitelogo/www.cityscapes-dataset.com.ico"
+        },
+        {
+          "id": "site-1753330110308",
+          "name": "机场数据",
+          "url": "https://ourairports.com/data/",
+          "description": "开放数据下载",
+          "icon": "https://ourairports.com/images/logo-196px.png"
+        },
+        {
+          "id": "site-1753330189621",
+          "name": "航班数据",
+          "url": "https://www.flightconnections.com/cn",
+          "description": "全球所有航线的概述。 查找全球所有机场的定期航班。 发现全球的航空公司航线和航班时刻表",
+          "icon": "/sitelogo/www.flightconnections.com.ico"
+        },
+        {
+          "id": "site-1753330461702",
+          "name": "mapillary",
+          "url": "https://www.mapillary.com/app/?lat=30.665330509879382&lng=104.12413299343348&z=15.22073079410893&pKey=512495954053750&x=0.9204875096072951&y=0.48324253420920915&zoom=0",
+          "description": "众包街景图像",
+          "icon": "/sitelogo/www.mapillary.com.ico"
+        },
+        {
+          "id": "site-1753330675823",
+          "name": "Cardiff-biobank",
+          "url": "https://biobank.ctsu.ox.ac.uk/crystal/label.cgi?id=100115",
+          "description": "卡迪夫大学Cochrane初级保健和公共卫生研究所开展的建筑环境形态测量分析数据。\n可用的指标包括：\n建筑类\n目的地可达性\n绿色\n土地利用密度\n街道网络可达性\n地形（坡度）\n无障碍美食景观（仅限伦敦地区\n构建、汇编并连接相应的纵向建筑环境空间数据库，以及英国生物样本库的健康数据集。大规模自动化地测量个体层面的建筑环境形态指标（形态测量学），如此细致精准，有望揭开因果关系的黑匣子，揭示建筑环境与社会和自然环境相互作用的路径，这些路径是决定个人行为、身心健康的根本因素之一",
+          "icon": "/sitelogo/biobank.ctsu.ox.ac.uk.ico"
+        },
+        {
+          "id": "site-1753333055992",
+          "name": "visualcapital",
+          "url": "http://visualcapital.xyz/",
+          "description": "ETH-资产可视化项目",
+          "icon": "http://visualcapital.xyz/images/icons/icon-27.png"
+        },
+        {
+          "id": "site-1753333174386",
+          "name": "SatlasPretrain",
+          "url": "https://satlas-pretrain.allen.ai/",
+          "description": "SatlasPretrain is a large-scale pre-training dataset for tasks that involve understanding satellite images",
+          "icon": "/sitelogo/satlas-pretrain.allen.ai.ico"
+        },
+        {
+          "id": "site-1753333201949",
+          "name": "instantstreetview",
+          "url": "https://www.instantstreetview.com/@30.571703,104.064781,82.01h,4.09p,0z,CAoSFkNJSE0wb2dLRUlDQWdJQ0VxckhPZkE.",
+          "description": "街景图像",
+          "icon": "/sitelogo/www.instantstreetview.com.ico"
         }
       ]
     }
