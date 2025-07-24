@@ -1522,13 +1522,6 @@ export const mockData = {
           "icon": "/sitelogo/biobank.ctsu.ox.ac.uk.ico"
         },
         {
-          "id": "site-1753333055992",
-          "name": "visualcapital",
-          "url": "http://visualcapital.xyz/",
-          "description": "ETH-资产可视化项目",
-          "icon": "http://visualcapital.xyz/images/icons/icon-27.png"
-        },
-        {
           "id": "site-1753333174386",
           "name": "SatlasPretrain",
           "url": "https://satlas-pretrain.allen.ai/",
@@ -1541,6 +1534,20 @@ export const mockData = {
           "url": "https://www.instantstreetview.com/@30.571703,104.064781,82.01h,4.09p,0z,CAoSFkNJSE0wb2dLRUlDQWdJQ0VxckhPZkE.",
           "description": "街景图像",
           "icon": "/sitelogo/www.instantstreetview.com.ico"
+        },
+        {
+          "id": "site-1753334545944",
+          "name": "cc-cities-六边形分割",
+          "url": "https://cc-cities.adibilis.ch/#tab-9826-1",
+          "description": "城市气候变化研究的系统地图和数据库",
+          "icon": "https://images.prismic.io/plotly-marketing-website-2/8f977c91-7b4e-4367-8228-26fbba2506e4_69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-sm.png?auto=compress%2Cformat&fit=max&w=256"
+        },
+        {
+          "id": "site-1753333055992",
+          "name": "visualcapital",
+          "url": "http://visualcapital.xyz/",
+          "description": "ETH-资产可视化项目",
+          "icon": "https://images.prismic.io/plotly-marketing-website-2/8f977c91-7b4e-4367-8228-26fbba2506e4_69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-sm.png?auto=compress%2Cformat&fit=max&w=256"
         }
       ]
     }
