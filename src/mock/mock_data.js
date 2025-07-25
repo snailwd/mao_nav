@@ -230,6 +230,13 @@ export const mockData = {
           "url": "https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Art/Fireworks.nlogo",
           "description": "netlogo在线版",
           "icon": "/sitelogo/www.netlogoweb.org.ico"
+        },
+        {
+          "id": "site-1753447162340",
+          "name": "liquidterritories",
+          "url": "https://liquidterritories.com/database#page_database_historical-materials",
+          "description": "liquidterritories-HKCU",
+          "icon": "/sitelogo/liquidterritories.com.ico"
         }
       ]
     },
