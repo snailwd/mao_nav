@@ -1534,6 +1534,13 @@ export const mockData = {
           "url": "https://zh.tradingeconomics.com/china/currency",
           "description": "196国经贸数据、指标",
           "icon": "/sitelogo/zh.tradingeconomics.com.ico"
+        },
+        {
+          "id": "site-1753455344161",
+          "name": "财报ai解读",
+          "url": "https://ch2report.com/report/frp_SkO8ziefww-kFC-qh7WhX?sessionId=ses_ZevIDDxXQHO92xqPYnjT0",
+          "description": "财报chatbox",
+          "icon": "/sitelogo/ch2report.com.ico"
         }
       ]
     },
@@ -1832,6 +1839,12 @@ export const mockData = {
           "url": "http://visualcapital.xyz/",
           "description": "ETH-资产可视化项目",
           "icon": "https://images.prismic.io/plotly-marketing-website-2/8f977c91-7b4e-4367-8228-26fbba2506e4_69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-sm.png?auto=compress%2Cformat&fit=max&w=256"
+        },
+        {
+          "id": "site-1753455305232",
+          "name": "房价指北",
+          "url": "https://how-to-buy-house.vercel.app/home",
+          "description": "房价指北"
         }
       ]
     }
