@@ -1190,6 +1190,13 @@ export const mockData = {
           "url": "https://pythongis.org/",
           "description": "online version of the book “Introduction to Python for Geographic Data Analysis”",
           "icon": "https://pythongis.org/_static/pythongis-logo.png"
+        },
+        {
+          "id": "site-1753676965421",
+          "name": "Stable Diffusion 零基础入门",
+          "url": "https://nenly.notion.site/017c3341c8b84a7ebb4c2cb16f36e28f?v=8d3885a8404b4f27a998d03b23a87f19",
+          "description": "Stable Diffusion 零基础入门课学习资料汇总",
+          "icon": ""
         }
       ]
     },
