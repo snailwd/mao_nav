@@ -1197,6 +1197,13 @@ export const mockData = {
           "url": "https://nenly.notion.site/017c3341c8b84a7ebb4c2cb16f36e28f?v=8d3885a8404b4f27a998d03b23a87f19",
           "description": "Stable Diffusion 零基础入门课学习资料汇总",
           "icon": ""
+        },
+        {
+          "id": "site-1753798858916",
+          "name": "comfyui 教程-nenly",
+          "url": "https://gf66fxi6ji.feishu.cn/wiki/UzFfwaOx3iY3ZAksErvcBbrpnPb",
+          "description": "comfyui 教程-nenly",
+          "icon": ""
         }
       ]
     },
