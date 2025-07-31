@@ -61,6 +61,13 @@ export const mockData = {
           "url": "https://learn.circlecat.cn/login/index.php",
           "description": "循环猫编程学习网站",
           "icon": "https://learn.circlecat.cn/pluginfile.php/1/core_admin/logo/0x200/1732156899/%E5%BE%AA%E7%8E%AF%E7%8C%AB_%E7%94%BB%E6%9D%BF%201%20%282%29.png"
+        },
+        {
+          "id": "site-1753944654583",
+          "name": "元宝",
+          "url": "https://yuanbao.tencent.com/chat/ddk4eQR3ap",
+          "description": "读论文利器",
+          "icon": "/sitelogo/yuanbao.tencent.com.ico"
         }
       ]
     },
