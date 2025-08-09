@@ -1866,6 +1866,13 @@ export const mockData = {
           "name": "房价指北",
           "url": "https://how-to-buy-house.vercel.app/home",
           "description": "房价指北"
+        },
+        {
+          "id": "site-1754764187768",
+          "name": "opendatalab",
+          "url": "https://opendatalab.org.cn/?keywords=city&sort=all",
+          "description": "city相关数据",
+          "icon": "https://webpub.shlab.tech/dps/opendatalab-web/xlab_v5.2055/assets/logo-odl-b2631aad.svg"
         }
       ]
     }
