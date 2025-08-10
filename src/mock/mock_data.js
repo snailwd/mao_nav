@@ -248,7 +248,7 @@ export const mockData = {
         {
           "id": "site-1754813689355",
           "name": "urban spacial lab",
-          "url": "https://www.urbanspatial.info/#/",
+          "url": "https://www.urbanspatial.info/#/projects",
           "description": "xiaojiang li -城市街景",
           "icon": "https://www.urbanspatial.info/images/projects/pedheat2.png"
         }
