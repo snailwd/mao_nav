@@ -919,6 +919,12 @@ export const mockData = {
           "url": "https://linxkon.github.io/AI_Agent%E5%85%A8%E6%99%AF%E8%B0%83%E7%A0%94.html",
           "description": "AI Agent：多模态交互前沿调查-李飞飞团队",
           "icon": "https://linxkon.github.io/images/index_pic/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E4%B8%9A%E6%9C%AF%E8%AF%AD.png"
+        },
+        {
+          "id": "site-1754839242919",
+          "name": "jimmysong blog",
+          "url": "https://jimmysong.io/blog/vibe-coding-free-tools/",
+          "description": ""
         }
       ]
     },
