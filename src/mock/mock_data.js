@@ -1880,6 +1880,13 @@ export const mockData = {
           "url": "https://opendatalab.org.cn/?keywords=city&sort=all",
           "description": "city相关数据",
           "icon": "https://webpub.shlab.tech/dps/opendatalab-web/xlab_v5.2055/assets/logo-odl-b2631aad.svg"
+        },
+        {
+          "id": "site-1754816307374",
+          "name": "MIT-Treepedia",
+          "url": "https://senseable.mit.edu/treepedia/cities/veracruz",
+          "description": "MIT-Treepedia",
+          "icon": "https://senseable.mit.edu/treepedia/system/cities/18870/thumb/paris.png?1491457757"
         }
       ]
     }
