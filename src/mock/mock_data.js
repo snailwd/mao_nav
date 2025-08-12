@@ -429,6 +429,13 @@ export const mockData = {
           "url": "https://rasterbator.net/",
           "description": "将图片栅格化",
           "icon": "/sitelogo/rasterbator.net.ico"
+        },
+        {
+          "id": "site-1754969119954",
+          "name": "abctools",
+          "url": "https://www.abcdtools.com/city-to-latlong/1825754",
+          "description": "在线获取经纬度",
+          "icon": "https://www.abcdtools.com/logo.svg"
         }
       ]
     },
