@@ -1231,6 +1231,13 @@ export const mockData = {
           "url": "https://gf66fxi6ji.feishu.cn/wiki/UzFfwaOx3iY3ZAksErvcBbrpnPb",
           "description": "comfyui 教程-nenly",
           "icon": ""
+        },
+        {
+          "id": "site-1755502770775",
+          "name": "sql之母",
+          "url": "https://sqlmother.yupi.icu/#/learn/level2",
+          "description": "sql之母",
+          "icon": "https://sqlmother.yupi.icu/assets/logo.e43a01a1.png"
         }
       ]
     },
