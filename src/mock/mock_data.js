@@ -869,6 +869,20 @@ export const mockData = {
           "url": "https://axhub.im/maps/",
           "description": "可复制到AXURE的SVG地图",
           "icon": "/sitelogo/axhub.im.ico"
+        },
+        {
+          "id": "site-1755591395668",
+          "name": "NASA 3d资源库",
+          "url": "https://science.nasa.gov/3d-resources/",
+          "description": "nasa 3d-resources",
+          "icon": "https://svs.gsfc.nasa.gov/static/svs/images/nasa-meatball.svg"
+        },
+        {
+          "id": "site-1755591451602",
+          "name": "NASA 设计标准图册",
+          "url": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+          "description": "《NASA Graphics Standards Manual（NHB 1430.2）》",
+          "icon": "https://visibleearth.nasa.gov/img/nasa_logo.png"
         }
       ]
     },
