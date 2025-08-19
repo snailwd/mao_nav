@@ -1524,6 +1524,13 @@ export const mockData = {
           "url": "https://www.officeplus.cn/PPT/template/?cat=PPT&tag=2",
           "description": "ppt模板库",
           "icon": "https://res-1.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/powerpoint_48x1.svg"
+        },
+        {
+          "id": "site-1755597934346",
+          "name": "Rawpixel",
+          "url": "https://www.rawpixel.com/search/nasa?page=1&path=1522%7Csearch_tl-33&sort=curated",
+          "description": "图片素材",
+          "icon": "data:image/svg+xml;base64,PHN2ZyBkYXRhLW5hbWU9IkxheWVyIDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQ4IDQ4Ij48cGF0aCBzdHlsZT0iZmlsbDpub25lO3N0cm9rZTojMDAwO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2Utd2lkdGg6NXB4IiBkPSJtMTUuNjYgNDUgMTguNjgtMjFMMTUuNjYgMyIvPjwvc3ZnPg=="
         }
       ]
     },
