@@ -881,7 +881,21 @@ export const mockData = {
           "id": "site-1755591451602",
           "name": "NASA 设计标准图册",
           "url": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
-          "description": "《NASA Graphics Standards Manual（NHB 1430.2）》",
+          "description": "《NASA Graphics Standards Manual（NHB 1430.2）》\nhttps://standardsmanual.com/products/nasa-graphics-standards-manual",
+          "icon": "https://visibleearth.nasa.gov/img/nasa_logo.png"
+        },
+        {
+          "id": "site-1755592417969",
+          "name": "NASA科学可视化工作室",
+          "url": "https://svs.gsfc.nasa.gov/gallery/astro/",
+          "description": "NASA科学可视化工作室",
+          "icon": "https://svs.gsfc.nasa.gov/static/svs/images/nasa-meatball.svg"
+        },
+        {
+          "id": "site-1755592478326",
+          "name": "NASA 可观测地球",
+          "url": "https://visibleearth.nasa.gov/collection/1484/blue-marble",
+          "description": "visible earth nasa",
           "icon": "https://visibleearth.nasa.gov/img/nasa_logo.png"
         }
       ]
