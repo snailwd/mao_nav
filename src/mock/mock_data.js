@@ -68,6 +68,12 @@ export const mockData = {
           "url": "https://yuanbao.tencent.com/chat/ddk4eQR3ap",
           "description": "读论文利器",
           "icon": "/sitelogo/yuanbao.tencent.com.ico"
+        },
+        {
+          "id": "site-1755963120712",
+          "name": "my deepclaude",
+          "url": "https://pwwudhmtvpwa.ap-northeast-1.clawcloudrun.com",
+          "description": ""
         }
       ]
     },
@@ -436,6 +442,12 @@ export const mockData = {
           "url": "https://www.abcdtools.com/city-to-latlong/1825754",
           "description": "在线获取经纬度",
           "icon": "https://www.abcdtools.com/logo.svg"
+        },
+        {
+          "id": "site-1755960824954",
+          "name": "ip 纯净测试",
+          "url": "https://ping0.cc/",
+          "description": "ip 纯净测试"
         }
       ]
     },
