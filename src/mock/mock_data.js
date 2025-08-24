@@ -74,6 +74,13 @@ export const mockData = {
           "name": "my deepclaude",
           "url": "https://pwwudhmtvpwa.ap-northeast-1.clawcloudrun.com",
           "description": ""
+        },
+        {
+          "id": "site-1756011953848",
+          "name": "claw cloud",
+          "url": "https://ap-northeast-1.run.claw.cloud/",
+          "description": "云部署网站",
+          "icon": "https://applaunchpad.ap-northeast-1.run.claw.cloud/logo.svg"
         }
       ]
     },
