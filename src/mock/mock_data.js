@@ -74,6 +74,20 @@ export const mockData = {
           "name": "my deepclaude",
           "url": "https://pwwudhmtvpwa.ap-northeast-1.clawcloudrun.com",
           "description": ""
+        },
+        {
+          "id": "site-1756137722952",
+          "name": "my_deepsearch",
+          "url": "https://deep-research-seven-blush.vercel.app/",
+          "description": "test",
+          "icon": ""
+        },
+        {
+          "id": "site-1756137779506",
+          "name": "datawhale china",
+          "url": "https://github.com/orgs/datawhalechina/repositories",
+          "description": "datawhale开源学习库汇总",
+          "icon": "https://avatars.githubusercontent.com/u/38695562?v=4"
         }
       ]
     },
