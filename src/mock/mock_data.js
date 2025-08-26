@@ -88,6 +88,13 @@ export const mockData = {
           "url": "https://github.com/orgs/datawhalechina/repositories",
           "description": "datawhale开源学习库汇总",
           "icon": "https://avatars.githubusercontent.com/u/38695562?v=4"
+        },
+        {
+          "id": "site-1756221994032",
+          "name": "smu.edu.kg",
+          "url": "https://mail.hhy.in",
+          "description": "",
+          "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCI+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBmaWxsPSIjMDA5Njg4Ii8+CiAgICAgIDx0ZXh0IAogICAgICAgIHg9IjUwJSIgCiAgICAgICAgeT0iNTAlIiAKICAgICAgICBmaWxsPSJ3aGl0ZSIgCiAgICAgICAgZm9udC1mYW1pbHk9InN5c3RlbS11aSwgLWFwcGxlLXN5c3RlbSwgc2Fucy1zZXJpZiIgCiAgICAgICAgZm9udC1zaXplPSI0NSIgCiAgICAgICAgZm9udC13ZWlnaHQ9IjUwMCIKICAgICAgICB0ZXh0LWFuY2hvcj0ibWlkZGxlIgogICAgICAgIGFsaWdubWVudC1iYXNlbGluZT0iY2VudHJhbCIKICAgICAgICBkb21pbmFudC1iYXNlbGluZT0iY2VudHJhbCIKICAgICAgICBzdHlsZT0idGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZSIKICAgICAgPgogICAgICAgIEEKICAgICAgPC90ZXh0PgogICAgPC9zdmc+"
         }
       ]
     },
