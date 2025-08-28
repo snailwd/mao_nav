@@ -278,6 +278,13 @@ export const mockData = {
           "url": "https://www.urbanspatial.info/#/projects",
           "description": "xiaojiang li -城市街景",
           "icon": "https://www.urbanspatial.info/images/projects/pedheat2.png"
+        },
+        {
+          "id": "site-1756386412244",
+          "name": "columbia -建筑环境与健康研究小组",
+          "url": "https://beh.columbia.edu/",
+          "description": "建筑环境与健康（BEH）研究小组-研究社区环境如何影响健康的研究人员组成的跨学科联盟",
+          "icon": "https://beh.columbia.edu/wp-content/uploads/2012/05/cropped-map_pluto_yello_dots1.png"
         }
       ]
     },
