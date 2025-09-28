@@ -486,8 +486,9 @@ export const mockData = {
         {
           "id": "site-1758897436881",
           "name": "在线mermaid",
-          "url": "https://www.jyshare.com/front-end/9729/",
-          "description": "在线graph-jyshare.com"
+          "url": "https://www.lddgo.net/chart/mermaid-chart",
+          "description": "在线graph",
+          "icon": "https://www.lddgo.net/img/icon-1732875babb6f45ec2e61eaf37a1c0f0.png"
         }
       ]
     },
