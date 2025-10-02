@@ -2016,6 +2016,13 @@ export const mockData = {
           "url": "https://senseable.mit.edu/treepedia/cities/veracruz",
           "description": "MIT-Treepedia",
           "icon": "https://senseable.mit.edu/treepedia/system/cities/18870/thumb/paris.png?1491457757"
+        },
+        {
+          "id": "site-1759394582030",
+          "name": "新加坡交通局数据集",
+          "url": "https://datamall.lta.gov.sg/content/datamall/en.html",
+          "description": "自行车道",
+          "icon": "https://datamall.lta.gov.sg/content/dam/datamall/images/DT_logoBeta.jpg"
         }
       ]
     }
