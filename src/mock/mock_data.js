@@ -1020,6 +1020,12 @@ export const mockData = {
           "name": "MIT Dsapce",
           "url": "https://dspace.mit.edu/discover?rpp=10&etal=0&group_by=none&page=2&sort_by=dc.date.issued_dt&order=desc&filtertype_0=department&filter_relational_operator_0=authority&filter_0=8b8dbd5132fcff95566bbd6b2266cd92",
           "description": "MIT Thesis"
+        },
+        {
+          "id": "site-1760593781193",
+          "name": "【书】可解释机器学习",
+          "url": "https://christophm.github.io/interpretable-ml-book/index.html",
+          "description": "Interpretable Machine Learning-A Guide for Making Black Box Models Explainable\n-Christoph Molnar"
         }
       ]
     },
