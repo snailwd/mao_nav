@@ -393,6 +393,13 @@ export const mockData = {
           "url": "https://matterport.com/",
           "description": "三维扫面重建",
           "icon": "/sitelogo/matterport.com.ico"
+        },
+        {
+          "id": "site-1761227148126",
+          "name": "napkin ai",
+          "url": "https://app.napkin.ai",
+          "description": "在线文画结构流程图",
+          "icon": "https://www.napkin.ai/assets/napkin-logo-2024.svg"
         }
       ]
     },
