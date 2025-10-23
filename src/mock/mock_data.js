@@ -753,6 +753,27 @@ export const mockData = {
           "url": "https://www.tortoisemedia.com/data/global-ai#data",
           "description": "全球人工智能指数，纸质感的图表可视化",
           "icon": "/sitelogo/www.tortoisemedia.com.ico"
+        },
+        {
+          "id": "site-1761226793333",
+          "name": "chiplot",
+          "url": "https://www.chiplot.online/",
+          "description": "在线科研绘图",
+          "icon": "https://www.chiplot.online/static/xiaochiPlot/logo.png"
+        },
+        {
+          "id": "site-1761226863611",
+          "name": "hiplot",
+          "url": "https://hiplot.cn/",
+          "description": "在线科研绘图，可编辑上传数据",
+          "icon": "https://hiplot.cn/img/logo.2c079f40.png"
+        },
+        {
+          "id": "site-1761226928972",
+          "name": "plottie",
+          "url": "https://plottie.art/",
+          "description": "科研绘图灵感网站，汇总了已经发表期刊的图",
+          "icon": "https://plottie.art/logo.png"
         }
       ]
     },
