@@ -286,6 +286,13 @@ export const mockData = {
           "url": "https://beh.columbia.edu/",
           "description": "建筑环境与健康（BEH）研究小组-研究社区环境如何影响健康的研究人员组成的跨学科联盟",
           "icon": "https://beh.columbia.edu/wp-content/uploads/2012/05/cropped-map_pluto_yello_dots1.png"
+        },
+        {
+          "id": "site-1761546642776",
+          "name": "uban heat exposure",
+          "url": "https://xiaojianggis.github.io/heatexpo/#about",
+          "description": "美国城市热暴露地图",
+          "icon": "https://xiaojianggis.github.io/heatexpo/img/mrt0/austin.png"
         }
       ]
     },
