@@ -293,6 +293,13 @@ export const mockData = {
           "url": "https://xiaojianggis.github.io/heatexpo/#about",
           "description": "美国城市热暴露地图",
           "icon": "https://xiaojianggis.github.io/heatexpo/img/mrt0/austin.png"
+        },
+        {
+          "id": "site-1762265476165",
+          "name": "CITYACCESSMAP",
+          "url": "https://www.cityaccessmap.com",
+          "description": "全球15min城市",
+          "icon": "https://www.cityaccessmap.com/images/tuDelft_dark.svg"
         }
       ]
     },
