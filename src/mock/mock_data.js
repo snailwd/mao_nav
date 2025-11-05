@@ -1068,6 +1068,13 @@ export const mockData = {
           "name": "【书】可解释机器学习",
           "url": "https://christophm.github.io/interpretable-ml-book/index.html",
           "description": "Interpretable Machine Learning-A Guide for Making Black Box Models Explainable\n-Christoph Molnar"
+        },
+        {
+          "id": "site-1762351110381",
+          "name": "nicoletti-accessmap",
+          "url": "https://www.leonardonicoletti.com/",
+          "description": "Data, code, and visual storytelling for tech and public accountability",
+          "icon": "https://www.leonardonicoletti.com/_app/immutable/assets/logo.0fd30a98.gif"
         }
       ]
     },
