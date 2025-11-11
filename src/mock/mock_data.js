@@ -511,6 +511,13 @@ export const mockData = {
           "url": "https://www.lddgo.net/chart/mermaid-chart",
           "description": "在线graph",
           "icon": "https://www.lddgo.net/img/icon-1732875babb6f45ec2e61eaf37a1c0f0.png"
+        },
+        {
+          "id": "site-1762833246398",
+          "name": "在线svg编辑",
+          "url": "https://www.hyvector.com",
+          "description": "纯 SVG 编辑器",
+          "icon": "https://www.hyvector.com/img/icons/favicon-16x16.png"
         }
       ]
     },
