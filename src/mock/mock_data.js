@@ -2112,6 +2112,13 @@ export const mockData = {
           "name": "新加坡公交路线可视化",
           "url": "https://busrouter.sg/visualization/",
           "description": ""
+        },
+        {
+          "id": "site-1763897061602",
+          "name": "城市数据citydata ai",
+          "url": "https://citydata.ai/",
+          "description": "地理空间人工智能平台通过众包、整理和模拟人的存在和移动",
+          "icon": "https://blog.citydata.ai/content/images/size/w960/format/webp/2025/07/CityData-Gravity-Model-for-Visitation-Header-Image.png"
         }
       ]
     }
