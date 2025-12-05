@@ -525,6 +525,13 @@ export const mockData = {
           "url": "https://www.hyvector.com",
           "description": "纯 SVG 编辑器",
           "icon": "https://www.hyvector.com/img/icons/favicon-16x16.png"
+        },
+        {
+          "id": "site-1764950366497",
+          "name": "官方标识翻译",
+          "url": "https://wb.beijing.gov.cn/home/wswm/yyhj/bscx/",
+          "description": "中文标识官方翻译，如15-minute radius livelihood service circles",
+          "icon": "https://wb.beijing.gov.cn/images/logo_h.png"
         }
       ]
     },
