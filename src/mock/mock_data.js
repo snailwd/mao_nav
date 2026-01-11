@@ -1096,6 +1096,13 @@ export const mockData = {
           "url": "https://www.leonardonicoletti.com/",
           "description": "Data, code, and visual storytelling for tech and public accountability",
           "icon": "https://www.leonardonicoletti.com/_app/immutable/assets/logo.0fd30a98.gif"
+        },
+        {
+          "id": "site-1768147814543",
+          "name": "mingzechen homepage",
+          "url": "https://mingzechen.com/",
+          "description": "Researching and Designing with data for cities, nature, and people",
+          "icon": "https://i0.wp.com/mingzechen.com/wp-content/uploads/2024/04/London-Tree-Canopy.jpg?resize=300%2C300&ssl=1"
         }
       ]
     },
