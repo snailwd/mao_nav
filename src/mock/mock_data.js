@@ -2133,6 +2133,12 @@ export const mockData = {
           "url": "https://citydata.ai/",
           "description": "地理空间人工智能平台通过众包、整理和模拟人的存在和移动",
           "icon": "https://blog.citydata.ai/content/images/size/w960/format/webp/2025/07/CityData-Gravity-Model-for-Visitation-Header-Image.png"
+        },
+        {
+          "id": "site-1768908983245",
+          "name": "SAR开源数据可视化平台",
+          "url": "https://data.terraq.space/map",
+          "description": "专注于合成孔径雷达（SAR）卫星数据管理和可视化的在线工具。 平台整合了多个商业SAR卫星运营商的开源数据"
         }
       ]
     }
