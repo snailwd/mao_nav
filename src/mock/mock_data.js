@@ -2139,6 +2139,13 @@ export const mockData = {
           "name": "SAR开源数据可视化平台",
           "url": "https://data.terraq.space/map",
           "description": "专注于合成孔径雷达（SAR）卫星数据管理和可视化的在线工具。 平台整合了多个商业SAR卫星运营商的开源数据"
+        },
+        {
+          "id": "site-1770650321215",
+          "name": "figshare-nature dataset",
+          "url": "https://springernature.figshare.com/search?q=:category:%20%22Urban%20Analysis%20and%20Development%22",
+          "description": "nature urban dataset",
+          "icon": "https://s3-eu-west-1.amazonaws.com/876az-branding-figshare/npg/logo_header.png"
         }
       ]
     }
