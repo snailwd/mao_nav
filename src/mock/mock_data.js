@@ -532,6 +532,13 @@ export const mockData = {
           "url": "https://wb.beijing.gov.cn/home/wswm/yyhj/bscx/",
           "description": "中文标识官方翻译，如15-minute radius livelihood service circles",
           "icon": "https://wb.beijing.gov.cn/images/logo_h.png"
+        },
+        {
+          "id": "site-1770936376725",
+          "name": "在线词云",
+          "url": "https://www.lddgo.net/chart/word-cloud",
+          "description": "在线文字各种处理",
+          "icon": "https://www.lddgo.net/img/icon-1732875babb6f45ec2e61eaf37a1c0f0.png"
         }
       ]
     },
