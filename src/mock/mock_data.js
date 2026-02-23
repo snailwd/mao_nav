@@ -1423,6 +1423,13 @@ export const mockData = {
           "url": "https://www.coursera.org/learn/exposome/supplement/AkmW4/the-exposome-a-wild-idea",
           "description": "Utrecht MOOC",
           "icon": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/07/4021fc7ea1497f8069be6926a5296b/4_UU_logo_EN.svg?auto=format%2Ccompress&dpr=2&w=160&h=24"
+        },
+        {
+          "id": "site-1771855126437",
+          "name": "mapschool",
+          "url": "https://mapschool.io/",
+          "description": "intro to geo",
+          "icon": "https://mapschool.io/img/projections.jpg"
         }
       ]
     },
