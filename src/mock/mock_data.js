@@ -859,6 +859,13 @@ export const mockData = {
           "url": "https://archidialog.com/tag/sanaa/",
           "description": "建筑设计灵感",
           "icon": "/sitelogo/archidialog.com.ico"
+        },
+        {
+          "id": "site-1776657046421",
+          "name": "Fun Facts of CS Conferences",
+          "url": "https://csconfstats.xoveexu.com/fun-fact.html",
+          "description": "cs会议的有趣统计",
+          "icon": "https://csconfstats.xoveexu.com/img/logo.svg"
         }
       ]
     },
