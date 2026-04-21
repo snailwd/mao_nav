@@ -2167,6 +2167,20 @@ export const mockData = {
           "url": "https://springernature.figshare.com/search?q=:category:%20%22Urban%20Analysis%20and%20Development%22",
           "description": "nature urban dataset",
           "icon": "https://s3-eu-west-1.amazonaws.com/876az-branding-figshare/npg/logo_header.png"
+        },
+        {
+          "id": "site-1776764996030",
+          "name": "青藏高原科学数据中心",
+          "url": "https://data.tpdc.ac.cn/allData?subjectId=d710eb61-5e78-4e76-b472-cf0e03291ce7&wordCloud=true",
+          "description": "青藏高原科学数据中心-古环境等-ftp",
+          "icon": "https://data.tpdc.ac.cn/static/img/logocn.c85812df.png"
+        },
+        {
+          "id": "site-1776765055874",
+          "name": "cnopendata",
+          "url": "https://www.cnopendata.com/",
+          "description": "cnopendata-包括但不限于学术数据",
+          "icon": ""
         }
       ]
     }
