@@ -307,6 +307,13 @@ export const mockData = {
           "url": "https://shadelab.asu.edu/projects/",
           "description": "the Shade Lab",
           "icon": "https://shadelab.asu.edu/wp-content/uploads/2025/05/OpenMRT.jpg"
+        },
+        {
+          "id": "site-1780455314236",
+          "name": "Selfiecity",
+          "url": "https://selfiecity.net/",
+          "description": "Selfiecity是一项跨学科研究项目，通过分析曼谷、柏林、莫斯科、纽约和圣保罗五个城市的3200张Instagram自拍照，结合自动图像分析、人工标注和理论反思，探讨自拍中的人口统计特征、姿势表情差异及文化模式。",
+          "icon": "https://www.winegrower.cn/logo.png"
         }
       ]
     },
