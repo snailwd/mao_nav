@@ -1450,6 +1450,13 @@ export const mockData = {
           "url": "https://mapschool.io/",
           "description": "intro to geo",
           "icon": "https://mapschool.io/img/projections.jpg"
+        },
+        {
+          "id": "site-1781109912957",
+          "name": "太空地图",
+          "url": "https://spacemapper.cn/zh-cn/satellite/orbital",
+          "description": "太空相关数据",
+          "icon": "https://img1.aseem.cn/_nuxt/img/logo5.859c7fd.png"
         }
       ]
     },
