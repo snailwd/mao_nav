@@ -1041,6 +1041,12 @@ export const mockData = {
           "url": "https://visibleearth.nasa.gov/collection/1484/blue-marble",
           "description": "visible earth nasa",
           "icon": "https://visibleearth.nasa.gov/img/nasa_logo.png"
+        },
+        {
+          "id": "site-1781199854900",
+          "name": "探索宇宙",
+          "url": "https://stars.chromeexperiments.com/",
+          "description": "从太阳到银河系🌌"
         }
       ]
     },
