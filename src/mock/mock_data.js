@@ -2207,6 +2207,13 @@ export const mockData = {
           "url": "https://www.cnopendata.com/",
           "description": "cnopendata-包括但不限于学术数据",
           "icon": ""
+        },
+        {
+          "id": "site-1782702864315",
+          "name": "agent society",
+          "url": "https://agentsociety2.fiblab.net/datasets",
+          "description": "agent一站式科研平台 ｜ dataset",
+          "icon": "https://agentsociety2.fiblab.net/logo.png"
         }
       ]
     }
