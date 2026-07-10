@@ -552,6 +552,12 @@ export const mockData = {
           "name": "在线加解密",
           "url": "https://veiltext.yuanhhs.online/",
           "description": "base64等"
+        },
+        {
+          "id": "site-1783702623171",
+          "name": "llm-api 测试",
+          "url": "https://check.crond.dev",
+          "description": "api可用性测试"
         }
       ]
     },
