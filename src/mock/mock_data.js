@@ -885,6 +885,13 @@ export const mockData = {
           "url": "https://csconfstats.xoveexu.com/fun-fact.html",
           "description": "cs会议的有趣统计",
           "icon": "https://csconfstats.xoveexu.com/img/logo.svg"
+        },
+        {
+          "id": "site-1784985525186",
+          "name": "六边形安利",
+          "url": "https://open.fused.io/mx4yiqseryjfdzl6oc3mwlnx7e?cmpplace=japan&tab=world&res=10&place=ams",
+          "description": "六边形为什么好？",
+          "icon": "https://h3geo.org/images/h3Logo-color.svg"
         }
       ]
     },
