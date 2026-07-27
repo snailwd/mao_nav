@@ -1763,6 +1763,13 @@ export const mockData = {
           "url": "https://www.kdocs.cn/l/ctYoDB9lU4o9",
           "description": "考公资料们",
           "icon": "/sitelogo/www.kdocs.cn.ico"
+        },
+        {
+          "id": "site-1785170647411",
+          "name": "408cs考研题库",
+          "url": "https://quiz.hermesjj.com/#/quiz",
+          "description": "408考验题库/ai解题",
+          "icon": "https://quiz.hermesjj.com/#/quiz"
         }
       ]
     },
@@ -2233,6 +2240,12 @@ export const mockData = {
           "name": "阴影地图-日本",
           "url": "https://shiwaku.github.io/shade-map/#12/35.878/139.639",
           "description": "埼玉市阴影地图在线"
+        },
+        {
+          "id": "site-1785166486332",
+          "name": "墨尔本树冠覆盖地图",
+          "url": "https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-public-realm-2018-urban-forest/information/",
+          "description": "墨尔本树冠覆盖地图-2018数据集/地图"
         }
       ]
     }
