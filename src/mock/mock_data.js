@@ -2227,6 +2227,12 @@ export const mockData = {
           "url": "https://agentsociety2.fiblab.net/datasets",
           "description": "agent一站式科研平台 ｜ dataset",
           "icon": "https://agentsociety2.fiblab.net/logo.png"
+        },
+        {
+          "id": "site-1785165950043",
+          "name": "阴影地图-日本",
+          "url": "https://shiwaku.github.io/shade-map/#12/35.878/139.639",
+          "description": "埼玉市阴影地图在线"
         }
       ]
     }
