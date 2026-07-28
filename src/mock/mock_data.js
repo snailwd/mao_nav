@@ -2246,6 +2246,13 @@ export const mockData = {
           "name": "墨尔本树冠覆盖地图",
           "url": "https://data.melbourne.vic.gov.au/explore/dataset/tree-canopies-public-realm-2018-urban-forest/information/",
           "description": "墨尔本树冠覆盖地图-2018数据集/地图"
+        },
+        {
+          "id": "site-1785216052281",
+          "name": "worldmove",
+          "url": "https://fi.ee.tsinghua.edu.cn/worldmove/about",
+          "description": "世界人口移动数据-清华",
+          "icon": "https://fi.ee.tsinghua.edu.cn/worldmove/assets/images/pop_example-35550661922795693b4e9a9ef36c83cb.png"
         }
       ]
     }
