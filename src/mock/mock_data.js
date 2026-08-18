@@ -1476,6 +1476,13 @@ export const mockData = {
           "url": "https://spacemapper.cn/zh-cn/satellite/orbital",
           "description": "太空相关数据",
           "icon": "https://img1.aseem.cn/_nuxt/img/logo5.859c7fd.png"
+        },
+        {
+          "id": "site-1787065082592",
+          "name": "如何画图-hci",
+          "url": "https://docs.google.com/presentation/d/1ibu-lsRcEp-2fDpVvTfsdvzYo2ipjOOKkE46mk8_2NU/edit?slide=id.g253ff04aa12_0_691#slide=id.g253ff04aa12_0_691",
+          "description": "how to figure-makebility lab",
+          "icon": "https://docs.google.com/presentation/d/1ibu-lsRcEp-2fDpVvTfsdvzYo2ipjOOKkE46mk8_2NU/edit?slide=id.g253ff04aa12_0_691#slide=id.g253ff04aa12_0_691"
         }
       ]
     },
