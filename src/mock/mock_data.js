@@ -2255,6 +2255,21 @@ export const mockData = {
           "icon": "https://fi.ee.tsinghua.edu.cn/worldmove/assets/images/pop_example-35550661922795693b4e9a9ef36c83cb.png"
         }
       ]
+    },
+    {
+      "id": "category-1787064332583",
+      "icon": "📚",
+      "name": "酷酷lab",
+      "order": 6,
+      "sites": [
+        {
+          "id": "site-1787064409092",
+          "name": "makeability lab",
+          "url": "https://makeabilitylab.cs.washington.edu/",
+          "description": "华盛顿大学makeability lab",
+          "icon": "https://makeabilitylab.cs.washington.edu/static/website/img/logos/makelab_logo_white_no_text_100x67.png"
+        }
+      ]
     }
   ],
   "title": "发条猪导航"
