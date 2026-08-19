@@ -2260,6 +2260,12 @@ export const mockData = {
           "url": "https://fi.ee.tsinghua.edu.cn/worldmove/about",
           "description": "世界人口移动数据-清华",
           "icon": "https://fi.ee.tsinghua.edu.cn/worldmove/assets/images/pop_example-35550661922795693b4e9a9ef36c83cb.png"
+        },
+        {
+          "id": "site-1787149233227",
+          "name": "原住民地图",
+          "url": "https://native-land.ca/",
+          "description": "原住民地图"
         }
       ]
     },
