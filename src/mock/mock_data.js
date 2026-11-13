@@ -96,13 +96,6 @@ export const mockData = {
           "url": "https://pwwudhmtvpwa.ap-northeast-1.clawcloudrun.com",
           "description": "",
           "icon": "https://dd-nav.pages.dev/logo.png"
-        },
-        {
-          "id": "site-1794544266706",
-          "name": "cityknow-how",
-          "url": "https://www.cityknow-how.com/#Map",
-          "description": "",
-          "icon": "https://www.cityknow-how.com/wp-content/uploads/2023/04/CH-Logo_-Space-Green_2024.png"
         }
       ]
     },
@@ -328,6 +321,13 @@ export const mockData = {
           "url": "https://beam-nus.github.io/BEAM_dashboard/",
           "description": "NUS新加坡校园数字孪生-微气候",
           "icon": "https://beam-nus.github.io/BEAM_dashboard/BEAM%20logo.png"
+        },
+        {
+          "id": "site-1794544266706",
+          "name": "cityknow-how",
+          "url": "https://www.cityknow-how.com/#Map",
+          "description": "",
+          "icon": "https://www.cityknow-how.com/wp-content/uploads/2023/04/CH-Logo_-Space-Green_2024.png"
         }
       ]
     },
